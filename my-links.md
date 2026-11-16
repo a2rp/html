@@ -8,7 +8,11 @@
 
 ## ✦ Work & profile
 
-<table width="100%">
+<table>
+  <colgroup>
+    <col width="260">
+    <col width="752">
+  </colgroup>
   <thead>
     <tr><th align="left">Profile</th><th align="right">Link</th></tr>
   </thead>
@@ -34,7 +38,11 @@
 
 ## ✦ Connect
 
-<table width="100%">
+<table>
+  <colgroup>
+    <col width="260">
+    <col width="752">
+  </colgroup>
   <thead>
     <tr><th align="left">Platform</th><th align="right">Link</th></tr>
   </thead>
@@ -60,7 +68,11 @@
 
 ## ✦ Support
 
-<table width="100%">
+<table>
+  <colgroup>
+    <col width="260">
+    <col width="752">
+  </colgroup>
   <thead>
     <tr><th align="left">Support</th><th align="right">Link</th></tr>
   </thead>
