@@ -1,5 +1,7 @@
 ﻿# HTML: A Beginner's Guide
 
+These are my personal learning notes, shaped by what I’ve studied and practiced throughout my learning journey and career. Here, I’m gathering what I’ve learned about HTML into a clear, practical guide that I can revisit and share.
+
 ## My links
 
 [View my portfolio, profiles, contact, and support links](my-links.md)
