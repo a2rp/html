@@ -2,7 +2,7 @@
 
 ## My links
 
-[View my portfolio, profiles, contact, and support links](links.md)
+[View my portfolio, profiles, contact, and support links](my-links.md)
 
 
 
