@@ -1,6 +1,6 @@
 ﻿# HTML: A Beginner's Guide
 
-Welcome! This repository is a step-by-step introduction to HTML. It starts with a small web page and builds toward the elements and habits used to create clear, meaningful, accessible documents.
+This repository is for learning and practicing HTML. It is a work in progress.
 
 ## What is HTML?
 
