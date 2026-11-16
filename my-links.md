@@ -14,7 +14,7 @@
   </thead>
   <tbody>
     <tr>
-      <td width="260"><a href="https://www.ashishranjan.net/"><img src="https://img.shields.io/badge/Portfolio-Explore-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"></a></td>
+      <td width="260"><a href="https://www.ashishranjan.net/"><img src="https://img.shields.io/badge/Explore-Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"></a></td>
       <td width="752" align="right"><a href="https://www.ashishranjan.net/">https://www.ashishranjan.net/</a></td>
     </tr>
     <tr>
