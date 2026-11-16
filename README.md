@@ -210,3 +210,7 @@ Open the page in your browser, then review the HTML and check that every element
 This introduction is the starting point. The repository can grow into a complete HTML handbook with a structured tutorial, an element and attribute reference, form and accessibility guides, examples, exercises, and small HTML-only projects.
 
 Learn a few elements at a time, write them yourself, and check the result in a browser.
+
+## License
+
+This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
