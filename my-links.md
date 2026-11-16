@@ -18,6 +18,8 @@
 
 [![Support my work](https://img.shields.io/badge/Support%20my%20work-Donate-7C3AED?style=for-the-badge)](https://a2rp-donation-page.netlify.app/) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=111111)](https://buymeacoffee.com/a2rp) [![Patreon](https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/a2rp)
 
+> **New-tab tip:** Ctrl-click a link on Windows/Linux or ⌘-click on Mac. You can also right-click and choose **Open link in new tab**.
+
 ---
 
 <div align="center">
