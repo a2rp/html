@@ -1,6 +1,6 @@
 ﻿# HTML: A Beginner's Guide
 
-This repository is for learning and practicing HTML. It is a work in progress.
+
 
 ## What is HTML?
 
@@ -205,9 +205,7 @@ Create index.html and build a small profile page that includes:
 
 Open the page in your browser, then review the HTML and check that every element has a clear purpose.
 
-## Where to go next
-
-This introduction is the starting point. The repository can grow into a complete HTML handbook with a structured tutorial, an element and attribute reference, form and accessibility guides, examples, exercises, and small HTML-only projects.
+## Keep practicing
 
 Learn a few elements at a time, write them yourself, and check the result in a browser.
 
