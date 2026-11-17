@@ -217,6 +217,6 @@ A useful check is to temporarily view a page without its custom CSS. Its content
 
 ### Chapter navigation
 
-| Previous chapter |  | Next chapter |
-| :--- | :---: | ---: |
-| [01 - Introduction to HTML](01-introduction-to-html.md) |  | [03 - The basic HTML document](03-basic-html-document.md) |
+| Previous chapter | Next chapter |
+| :--- | ---: |
+| [01 - Introduction to HTML](01-introduction-to-html.md) | [03 - The basic HTML document](03-basic-html-document.md) |
