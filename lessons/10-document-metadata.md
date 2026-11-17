@@ -1,0 +1,3 @@
+### Chapter navigation
+
+**Previous chapter:** [09 - The head element and page title](09-head-and-title.md) | **Next chapter:** [11 - Headings and paragraphs](11-headings-and-paragraphs.md)

@@ -212,3 +212,9 @@ A useful check is to temporarily view a page without its custom CSS. Its content
 - HTML has useful native features, including links, disclosure controls, and form controls.
 - A browser combines the document and any connected stylesheets or scripts to display a page.
 - Meaningful HTML remains important whether or not CSS or JavaScript is present.
+
+---
+
+### Chapter navigation
+
+**Previous chapter:** [01 - Introduction to HTML](01-introduction-to-html.md) | **Next chapter:** [03 - The basic HTML document](03-basic-html-document.md)

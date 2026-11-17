@@ -161,3 +161,9 @@ Starting from the complete example:
 - Attributes add information to elements.
 - A complete document has a root `<html>` element, a `<head>` for document information, and a `<body>` for page content.
 - Use HTML for structure and meaning; use CSS for presentation and JavaScript for behavior when needed.
+
+---
+
+### Chapter navigation
+
+**Next chapter:** [02 - How HTML fits into a web page](02-html-css-and-javascript.md)
