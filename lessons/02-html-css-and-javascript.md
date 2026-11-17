@@ -219,4 +219,4 @@ A useful check is to temporarily view a page without its custom CSS. Its content
 
 | Previous chapter |  | Next chapter |
 | :--- | :---: | ---: |
-| [01 - Introduction to HTML](01-introduction-to-html.md) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [03 - The basic HTML document](03-basic-html-document.md) |
+| [01 - Introduction to HTML](01-introduction-to-html.md) |  | [03 - The basic HTML document](03-basic-html-document.md) |

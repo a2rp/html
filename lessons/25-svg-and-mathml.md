@@ -4,4 +4,4 @@
 
 | Previous chapter |  | Next chapter |
 | :--- | :---: | ---: |
-| [24 - Responsive images: picture, srcset, and sizes](24-responsive-images.md) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [26 - HTML tables: rows, columns, and cells](26-html-tables.md) |
+| [24 - Responsive images: picture, srcset, and sizes](24-responsive-images.md) |  | [26 - HTML tables: rows, columns, and cells](26-html-tables.md) |
