@@ -217,4 +217,11 @@ A useful check is to temporarily view a page without its custom CSS. Its content
 
 ### Chapter navigation
 
-**Previous chapter:** [01 - Introduction to HTML](01-introduction-to-html.md) | **Next chapter:** [03 - The basic HTML document](03-basic-html-document.md)
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="50%" align="left"><a href="01-introduction-to-html.md">Previous chapter: 01 - Introduction to HTML</a></td>
+      <td width="50%" align="right"><a href="03-basic-html-document.md">Next chapter: 03 - The basic HTML document</a></td>
+    </tr>
+  </tbody>
+</table>
