@@ -166,4 +166,9 @@ Starting from the complete example:
 
 ### Chapter navigation
 
-<p align="right"><a href="02-html-css-and-javascript.md">Next chapter: 02 - How HTML fits into a web page</a></p>
+<table width="100%">
+  <tr>
+    <td width="100%">&nbsp;</td>
+    <td align="right"><a href="02-html-css-and-javascript.md">Next chapter: 02 - How HTML fits into a web page</a></td>
+  </tr>
+</table>
