@@ -305,6 +305,6 @@ Practice questions for [Lesson 04 - Doctype and browser rendering modes](../less
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [03 - The basic HTML document](03-basic-html-document.md) | [05 - Elements, tags, and attributes](05-elements-tags-and-attributes.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [03 - The basic HTML document](03-basic-html-document.md) | [Lesson](../lessons/04-doctype-and-rendering-modes.md) | [Example](../examples/04-doctype-and-rendering-modes.md) | [05 - Elements, tags, and attributes](05-elements-tags-and-attributes.md) |
