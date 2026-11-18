@@ -96,3 +96,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 16 - URLs, file paths, and page fragments](../lessons/16-urls-paths-and-fragments.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [15 - Links and the anchor element](15-links.md) | [Lesson](../lessons/16-urls-paths-and-fragments.md) | [Q&A](../qnas/16-urls-paths-and-fragments.md) | [17 - Navigation and linking between pages](17-navigation-and-page-links.md) |
