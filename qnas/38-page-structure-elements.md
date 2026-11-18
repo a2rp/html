@@ -394,6 +394,6 @@ The container and its heading have related but different purposes.
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [37 - Semantic HTML and page structure](37-semantic-html.md) | [39 - Landmarks, headings, and accessible page navigation](39-landmarks-and-page-navigation.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [37 - Semantic HTML and page structure](37-semantic-html.md) | [Lesson](../lessons/38-page-structure-elements.md) | [Example](../examples/38-page-structure-elements.md) | [39 - Landmarks, headings, and accessible page navigation](39-landmarks-and-page-navigation.md) |
