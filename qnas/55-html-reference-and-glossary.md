@@ -188,6 +188,6 @@ The label's for value matches the input's id. The name identifies the submitted 
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [54 - HTML-only practice pages](54-html-practice-projects.md) |  |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [54 - HTML-only practice pages](54-html-practice-projects.md) | [Lesson](../lessons/55-html-reference-and-glossary.md) | [Example](../examples/55-html-reference-and-glossary.md) |  |
