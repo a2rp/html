@@ -61,3 +61,7 @@ These are my personal learning notes, shaped by what I’ve studied and practice
 | 53 | [Validate and debug HTML](lessons/53-validation-and-debugging.md) |
 | 54 | [HTML-only practice pages](lessons/54-html-practice-projects.md) |
 | 55 | [HTML quick reference and glossary](lessons/55-html-reference-and-glossary.md) |
+
+## My Links
+
+[My Links repository](https://github.com/a2rp/ashish-links)
