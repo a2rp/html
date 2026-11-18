@@ -340,6 +340,6 @@ There is no previous page, so the fake link should be removed.
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [16 - URLs, file paths, and page fragments](16-urls-paths-and-fragments.md) | [18 - Unordered, ordered, and description lists](18-lists.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [16 - URLs, file paths, and page fragments](16-urls-paths-and-fragments.md) | [Lesson](../lessons/17-navigation-and-page-links.md) | [Example](../examples/17-navigation-and-page-links.md) | [18 - Unordered, ordered, and description lists](18-lists.md) |
