@@ -222,8 +222,3 @@ Use modern semantic HTML, form controls, and CSS instead. Some of these names ma
 - Associate each form control with a label.
 - Use table elements for data with row and column relationships, not for page layout.
 - Validate unfamiliar or complex markup with an HTML conformance checker.
-
-## Further reading
-
-- [WHATWG HTML Standard: element index](https://html.spec.whatwg.org/multipage/indices.html)
-- [WHATWG HTML Standard: obsolete features](https://html.spec.whatwg.org/multipage/obsolete.html)
