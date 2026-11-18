@@ -260,6 +260,6 @@ The value describes the image, rather than acting as a caption or repeating the 
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [48 - Favicons and document icons](48-favicons-and-icons.md) | [50 - Microdata and structured information](50-microdata.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [48 - Favicons and document icons](48-favicons-and-icons.md) | [Lesson](../lessons/49-search-and-social-metadata.md) | [Example](../examples/49-search-and-social-metadata.md) | [50 - Microdata and structured information](50-microdata.md) |
