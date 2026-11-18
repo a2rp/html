@@ -337,6 +337,6 @@ The link is outside the iframe and remains available if the embedded map cannot 
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [22 - The iframe element and embedded pages](22-iframes-and-embedded-pages.md) | [24 - Responsive images: picture, srcset, and sizes](24-responsive-images.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [22 - The iframe element and embedded pages](22-iframes-and-embedded-pages.md) | [Lesson](../lessons/23-safe-embedded-content.md) | [Example](../examples/23-safe-embedded-content.md) | [24 - Responsive images: picture, srcset, and sizes](24-responsive-images.md) |
