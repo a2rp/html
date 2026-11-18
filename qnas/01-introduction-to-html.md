@@ -265,6 +265,6 @@ The corrected page adds a doctype, language, and character encoding. It puts the
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-|  | [02 - How HTML fits into a web page](02-html-css-and-javascript.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+|  | [Lesson](../lessons/01-introduction-to-html.md) | [Example](../examples/01-introduction-to-html.md) | [02 - How HTML fits into a web page](02-html-css-and-javascript.md) |
