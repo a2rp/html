@@ -245,6 +245,6 @@ A page uses `<strong>Opening hours</strong>` as the heading for a section. Rewri
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [01 - Introduction to HTML](01-introduction-to-html.md) | [03 - The basic HTML document](03-basic-html-document.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [01 - Introduction to HTML](01-introduction-to-html.md) | [Lesson](../lessons/02-html-css-and-javascript.md) | [Example](../examples/02-html-css-and-javascript.md) | [03 - The basic HTML document](03-basic-html-document.md) |
