@@ -145,3 +145,9 @@ The example search, sign-in, contact, and registration paths do not have server 
 ## Related lesson
 
 [Read lesson 41 - ARIA in HTML: when and how to use it](../lessons/41-aria-in-html.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [40 - Accessibility with native HTML](40-accessibility-with-html.md) | [Lesson](../lessons/41-aria-in-html.md) | [Q&A](../qnas/41-aria-in-html.md) | [42 - Language, text direction, and international content](42-language-and-text-direction.md) |
