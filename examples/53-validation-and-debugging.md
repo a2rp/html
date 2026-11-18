@@ -107,3 +107,9 @@ A clean validator report checks markup conformance. It does not prove that the i
 ## Related lesson
 
 [Read lesson 53 - Validate and debug HTML](../lessons/53-validation-and-debugging.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [52 - Deprecated elements and obsolete HTML](52-obsolete-html.md) | [Lesson](../lessons/53-validation-and-debugging.md) | [Q&A](../qnas/53-validation-and-debugging.md) | [54 - HTML-only practice pages](54-html-practice-projects.md) |
