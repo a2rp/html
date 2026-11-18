@@ -416,6 +416,6 @@ The checkboxes are independently selectable. The legend describes what the prefe
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [30 - Labels and accessible form controls](30-labels-and-form-controls.md) | [32 - Textarea, select, option, and datalist](32-textarea-select-and-datalist.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [30 - Labels and accessible form controls](30-labels-and-form-controls.md) | [Lesson](../lessons/31-fieldset-and-legend.md) | [Example](../examples/31-fieldset-and-legend.md) | [32 - Textarea, select, option, and datalist](32-textarea-select-and-datalist.md) |
