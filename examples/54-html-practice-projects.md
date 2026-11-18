@@ -189,3 +189,9 @@ The FAQ disclosures work using the browser's built-in `<details>` behavior. The 
 ## Related lesson
 
 [Read lesson 54 - HTML-only practice pages](../lessons/54-html-practice-projects.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [53 - Validate and debug HTML](53-validation-and-debugging.md) | [Lesson](../lessons/54-html-practice-projects.md) | [Q&A](../qnas/54-html-practice-projects.md) | [55 - HTML quick reference and glossary](55-html-reference-and-glossary.md) |
