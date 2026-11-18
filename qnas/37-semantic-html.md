@@ -322,6 +322,6 @@ A custom widget may need additional accessible state information, but simply add
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [36 - Autocomplete and autofill](36-autocomplete-and-autofill.md) | [38 - Header, navigation, main, section, article, and footer](38-page-structure-elements.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [36 - Autocomplete and autofill](36-autocomplete-and-autofill.md) | [Lesson](../lessons/37-semantic-html.md) | [Example](../examples/37-semantic-html.md) | [38 - Header, navigation, main, section, article, and footer](38-page-structure-elements.md) |
