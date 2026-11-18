@@ -110,3 +110,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 17 - Navigation and linking between pages](../lessons/17-navigation-and-page-links.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [16 - URLs, file paths, and page fragments](16-urls-paths-and-fragments.md) | [Lesson](../lessons/17-navigation-and-page-links.md) | [Q&A](../qnas/17-navigation-and-page-links.md) | [18 - Unordered, ordered, and description lists](18-lists.md) |
