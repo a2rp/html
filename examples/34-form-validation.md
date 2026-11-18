@@ -150,3 +150,9 @@ The example addresses do not have server handlers in this file, so a valid regis
 ## Related lesson
 
 [Read lesson 34 - Built-in form validation](../lessons/34-form-validation.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [33 - Buttons and form actions](33-buttons-and-form-actions.md) | [Lesson](../lessons/34-form-validation.md) | [Q&A](../qnas/34-form-validation.md) | [35 - Form submission: name, method, action, and enctype](35-form-submission.md) |
