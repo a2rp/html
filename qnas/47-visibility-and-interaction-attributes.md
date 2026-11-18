@@ -283,6 +283,6 @@ Nested editable regions are not added to the Tab sequence by default. Confirm th
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [46 - Template elements](46-template-element.md) | [48 - Favicons and document icons](48-favicons-and-icons.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [46 - Template elements](46-template-element.md) | [Lesson](../lessons/47-visibility-and-interaction-attributes.md) | [Example](../examples/47-visibility-and-interaction-attributes.md) | [48 - Favicons and document icons](48-favicons-and-icons.md) |
