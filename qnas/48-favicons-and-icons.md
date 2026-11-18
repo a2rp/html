@@ -267,6 +267,6 @@ The icon and title serve separate purposes in browser interfaces.
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [47 - Hidden, inert, tabindex, and editable content](47-visibility-and-interaction-attributes.md) | [49 - Search and social sharing metadata](49-search-and-social-metadata.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [47 - Hidden, inert, tabindex, and editable content](47-visibility-and-interaction-attributes.md) | [Lesson](../lessons/48-favicons-and-icons.md) | [Example](../examples/48-favicons-and-icons.md) | [49 - Search and social sharing metadata](49-search-and-social-metadata.md) |
