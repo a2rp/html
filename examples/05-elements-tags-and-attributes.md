@@ -71,3 +71,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 05 - Elements, tags, and attributes](../lessons/05-elements-tags-and-attributes.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [04 - Doctype and browser rendering modes](04-doctype-and-rendering-modes.md) | [Lesson](../lessons/05-elements-tags-and-attributes.md) | [Q&A](../qnas/05-elements-tags-and-attributes.md) | [06 - Nesting, void elements, and HTML syntax](06-nesting-and-html-syntax.md) |
