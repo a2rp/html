@@ -91,3 +91,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 22 - The iframe element and embedded pages](../lessons/22-iframes-and-embedded-pages.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [21 - Audio and video](21-audio-and-video.md) | [Lesson](../lessons/22-iframes-and-embedded-pages.md) | [Q&A](../qnas/22-iframes-and-embedded-pages.md) | [23 - Embedding external content safely](23-safe-embedded-content.md) |
