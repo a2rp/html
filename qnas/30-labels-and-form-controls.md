@@ -373,6 +373,6 @@ The email field is already explicitly labeled, and the button has descriptive te
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [29 - Input types and input attributes](29-input-types-and-attributes.md) | [31 - Fieldset and legend](31-fieldset-and-legend.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [29 - Input types and input attributes](29-input-types-and-attributes.md) | [Lesson](../lessons/30-labels-and-form-controls.md) | [Example](../examples/30-labels-and-form-controls.md) | [31 - Fieldset and legend](31-fieldset-and-legend.md) |
