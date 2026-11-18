@@ -348,6 +348,6 @@ The hint does not guarantee that the selected or transmitted file is safe or has
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [34 - Built-in form validation](34-form-validation.md) | [36 - Autocomplete and autofill](36-autocomplete-and-autofill.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [34 - Built-in form validation](34-form-validation.md) | [Lesson](../lessons/35-form-submission.md) | [Example](../examples/35-form-submission.md) | [36 - Autocomplete and autofill](36-autocomplete-and-autofill.md) |
