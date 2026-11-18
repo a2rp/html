@@ -137,3 +137,9 @@ The example page links do not have destinations with content in this file. This 
 ## Related lesson
 
 [Read lesson 38 - Header, navigation, main, section, article, and footer](../lessons/38-page-structure-elements.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [37 - Semantic HTML and page structure](37-semantic-html.md) | [Lesson](../lessons/38-page-structure-elements.md) | [Q&A](../qnas/38-page-structure-elements.md) | [39 - Landmarks, headings, and accessible page navigation](39-landmarks-and-page-navigation.md) |
