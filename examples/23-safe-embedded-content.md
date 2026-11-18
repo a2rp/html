@@ -100,3 +100,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 23 - Embedding external content safely](../lessons/23-safe-embedded-content.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [22 - The iframe element and embedded pages](22-iframes-and-embedded-pages.md) | [Lesson](../lessons/23-safe-embedded-content.md) | [Q&A](../qnas/23-safe-embedded-content.md) | [24 - Responsive images: picture, srcset, and sizes](24-responsive-images.md) |
