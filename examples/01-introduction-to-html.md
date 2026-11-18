@@ -52,3 +52,9 @@ Copy the HTML code block using its copy button, paste it into a text editor, sav
 ## Related lesson
 
 [Read lesson 01 - Introduction to HTML](../lessons/01-introduction-to-html.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+|  | [Lesson](../lessons/01-introduction-to-html.md) | [Q&A](../qnas/01-introduction-to-html.md) | [02 - How HTML fits into a web page](02-html-css-and-javascript.md) |
