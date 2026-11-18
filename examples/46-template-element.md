@@ -126,3 +126,9 @@ This Markdown file displays the code and does not run it.
 ## Related lesson
 
 [Read lesson 46 - Template elements](../lessons/46-template-element.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [45 - Popover attributes](45-popover-attributes.md) | [Lesson](../lessons/46-template-element.md) | [Q&A](../qnas/46-template-element.md) | [47 - Hidden, inert, tabindex, and editable content](47-visibility-and-interaction-attributes.md) |
