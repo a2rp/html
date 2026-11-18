@@ -89,3 +89,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 12 - Text semantics: emphasis, importance, and meaning](../lessons/12-text-semantics.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [11 - Headings and paragraphs](11-headings-and-paragraphs.md) | [Lesson](../lessons/12-text-semantics.md) | [Q&A](../qnas/12-text-semantics.md) | [13 - Code, abbreviations, dates, and machine-readable text](13-specialized-text-elements.md) |
