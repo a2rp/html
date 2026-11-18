@@ -268,6 +268,6 @@ Practice questions for [Lesson 05 - Elements, tags, and attributes](../lessons/0
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [04 - Doctype and browser rendering modes](04-doctype-and-rendering-modes.md) | [06 - Nesting, void elements, and HTML syntax](06-nesting-and-html-syntax.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [04 - Doctype and browser rendering modes](04-doctype-and-rendering-modes.md) | [Lesson](../lessons/05-elements-tags-and-attributes.md) | [Example](../examples/05-elements-tags-and-attributes.md) | [06 - Nesting, void elements, and HTML syntax](06-nesting-and-html-syntax.md) |
