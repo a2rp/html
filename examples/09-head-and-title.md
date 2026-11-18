@@ -58,3 +58,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 09 - The head element and page title](../lessons/09-head-and-title.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [08 - Comments, character references, and special characters](08-comments-and-character-references.md) | [Lesson](../lessons/09-head-and-title.md) | [Q&A](../qnas/09-head-and-title.md) | [10 - Metadata: charset, viewport, and description](10-document-metadata.md) |
