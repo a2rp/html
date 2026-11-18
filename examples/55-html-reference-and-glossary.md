@@ -684,4 +684,4 @@ The page uses browser default presentation because it contains no CSS. The discl
 
 | Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
 | :--- | --- | --- | ---: |
-| [54 - HTML-only practice pages](54-html-practice-projects.md) | [Lesson](../lessons/55-html-reference-and-glossary.md) | [Q&A](../qnas/55-html-reference-and-glossary.md) |  |
+| [54 - HTML-only practice pages](54-html-practice-projects.md) | [Lesson](../lessons/55-html-reference-and-glossary.md) | [Q&A](../qnas/55-html-reference-and-glossary.md) | [56 - The base element and relative URLs](56-base-element-and-relative-urls.md) |

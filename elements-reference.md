@@ -11,7 +11,7 @@ This reference groups the standard HTML elements by their common purpose. Elemen
 | &lt;html&gt; | Root element that contains the document. Its lang attribute identifies the page's primary language. |
 | &lt;head&gt; | Holds document metadata and resource references. |
 | &lt;title&gt; | Names the document, commonly shown in a browser tab or bookmark. |
-| &lt;base&gt; | Sets the base URL or default link target for relative URLs in the document. |
+| &lt;base&gt; | Sets the document base URL for relative URLs, or the default target for links and form submissions. |
 | &lt;link&gt; | Connects the document to an external resource, commonly a stylesheet or icon. |
 | &lt;meta&gt; | Provides document metadata such as character encoding, viewport settings, and description. |
 | &lt;style&gt; | Contains document-specific CSS. |

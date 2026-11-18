@@ -291,11 +291,11 @@ Use a native control that matches the interaction. For example, details is a dis
 | Tables and forms | [26 - HTML tables](26-html-tables.md), [28 - Forms](28-forms-overview.md), [30 - Labels and accessible form controls](30-labels-and-form-controls.md) |
 | Structure and accessibility | [37 - Semantic HTML](37-semantic-html.md), [40 - Accessibility with native HTML](40-accessibility-with-html.md), [41 - ARIA in HTML](41-aria-in-html.md) |
 | Interactions and attributes | [43 - Details and summary](43-details-and-summary.md), [44 - Dialog elements](44-dialog-element.md), [45 - Popover attributes](45-popover-attributes.md), [47 - Visibility and interaction attributes](47-visibility-and-interaction-attributes.md) |
-| Metadata and structured data | [49 - Search and social sharing metadata](49-search-and-social-metadata.md), [50 - Microdata and structured information](50-microdata.md) |
+| Metadata and structured data | [49 - Search and social sharing metadata](49-search-and-social-metadata.md), [50 - Microdata and structured information](50-microdata.md), [56 - The base element and relative URLs](56-base-element-and-relative-urls.md) |
 | Safety, obsolete markup, and validation | [51 - Safe links and embedded content](51-html-safety.md), [52 - Deprecated elements and obsolete HTML](52-obsolete-html.md), [53 - Validate and debug HTML](53-validation-and-debugging.md) |
 
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |
 | :--- | --- | --- | ---: |
-| [54 - HTML-only practice pages](54-html-practice-projects.md) | [Q&A](../qnas/55-html-reference-and-glossary.md) | [Example](../examples/55-html-reference-and-glossary.md) |  |
+| [54 - HTML-only practice pages](54-html-practice-projects.md) | [Q&A](../qnas/55-html-reference-and-glossary.md) | [Example](../examples/55-html-reference-and-glossary.md) | [56 - The base element and relative URLs](56-base-element-and-relative-urls.md) |

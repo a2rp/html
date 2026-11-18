@@ -184,4 +184,4 @@ The label's for value matches the input's id. The name identifies the submitted 
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |
 | :--- | --- | --- | ---: |
-| [54 - HTML-only practice pages](54-html-practice-projects.md) | [Lesson](../lessons/55-html-reference-and-glossary.md) | [Example](../examples/55-html-reference-and-glossary.md) |  |
+| [54 - HTML-only practice pages](54-html-practice-projects.md) | [Lesson](../lessons/55-html-reference-and-glossary.md) | [Example](../examples/55-html-reference-and-glossary.md) | [56 - The base element and relative URLs](56-base-element-and-relative-urls.md) |

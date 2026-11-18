@@ -1,6 +1,6 @@
 # HTML Coverage Checklist
 
-This checklist compares the guide's 55 lessons, Q&A pages, examples, and element reference against the main authoring topics in the HTML Living Standard.
+This checklist compares the guide's 56 lessons, Q&A pages, examples, and element reference against the main authoring topics in the HTML Living Standard.
 
 It tracks practical coverage for people writing HTML. `Covered` means a lesson introduces the topic. It does not mean every specification detail or every attribute value is documented.
 
@@ -8,7 +8,7 @@ It tracks practical coverage for people writing HTML. `Covered` means a lesson i
 
 | Topic | Status | Existing coverage | What the status means |
 | --- | --- | --- | --- |
-| Document basics, HTML syntax, tags, attributes, comments, and character references | Covered | Lessons 01-10 | The guide explains document structure and common authoring syntax. Detailed parser recovery and conformance rules need more depth. |
+| Document basics, HTML syntax, URL bases, tags, attributes, comments, and character references | Covered | Lessons 01-10 and 56 | The guide explains document structure, relative URL bases, and common authoring syntax. Detailed parser recovery and conformance rules need more depth. |
 | Headings, paragraphs, text meaning, quotations, links, URLs, and lists | Covered | Lessons 11-18 | Core text and navigation elements have lessons, questions, and examples. |
 | Images, figures, responsive images, audio, video, iframes, SVG, and MathML | Partial | Lessons 19-25 | The common authoring patterns are covered. Image maps, canvas, object, and embed need focused explanations. |
 | Tables and accessible table structure | Covered | Lessons 26-27 | Data tables, headers, captions, and accessible relationships are covered. |
@@ -22,7 +22,7 @@ It tracks practical coverage for people writing HTML. `Covered` means a lesson i
 
 ### 1. Add focused lessons for elements currently listed only briefly
 
-- [ ] `<base>` and how it changes relative URLs and default link targets.
+- [x] `<base>` and how it changes relative URLs and default link targets. See [Chapter 56 - The base element and relative URLs](lessons/56-base-element-and-relative-urls.md).
 - [ ] `<map>` and `<area>` for image maps, including accessible names and coordinates.
 - [ ] `<canvas>`, its fallback content, and its relationship to JavaScript.
 - [ ] `<object>` and `<embed>`, including fallback content and practical limitations.
@@ -52,7 +52,7 @@ Add a lesson, matching Q&A page, and matching example for each selected topic. U
 - [ ] Explain common `<link>` relationships and which resource each one declares.
 - [ ] Compare classic scripts, modules, `async`, and `defer`, including execution timing.
 - [ ] Explain resource-related attributes such as `crossorigin`, `referrerpolicy`, `integrity`, `loading`, and `fetchpriority` where applicable.
-- [ ] Explain the purpose and risks of `<base>` in the context of document URLs.
+- [x] Explain the purpose and risks of `<base>` in the context of document URLs. See [Chapter 56 - The base element and relative URLs](lessons/56-base-element-and-relative-urls.md).
 
 ### 5. Deepen form coverage
 
@@ -73,7 +73,7 @@ The HTML Living Standard also specifies browser implementation details and APIs 
 
 ## Audit notes
 
-- The repository currently has 55 lesson files, 55 matching Q&A files, and 55 matching example files.
+- The repository currently has 56 lesson files, 56 matching Q&A files, and 56 matching example files.
 - Each lesson, Q&A, and example has chapter navigation, and the internal Markdown links were checked for missing targets.
 - The element inventory was compared with the HTML Living Standard's conforming element index and section structure on 19 November 2026.
 - Update this checklist whenever lessons, Q&A pages, examples, or the element reference change.
