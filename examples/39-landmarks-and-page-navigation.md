@@ -116,3 +116,9 @@ The linked pages do not have content in this file. This Markdown file displays t
 ## Related lesson
 
 [Read lesson 39 - Landmarks, headings, and accessible page navigation](../lessons/39-landmarks-and-page-navigation.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [38 - Header, navigation, main, section, article, and footer](38-page-structure-elements.md) | [Lesson](../lessons/39-landmarks-and-page-navigation.md) | [Q&A](../qnas/39-landmarks-and-page-navigation.md) | [40 - Accessibility with native HTML](40-accessibility-with-html.md) |
