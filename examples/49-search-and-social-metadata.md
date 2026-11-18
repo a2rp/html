@@ -130,3 +130,9 @@ A crawler must be able to fetch the page to read this instruction. It does not m
 ## Related lesson
 
 [Read lesson 49 - Search and social sharing metadata](../lessons/49-search-and-social-metadata.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [48 - Favicons and document icons](48-favicons-and-icons.md) | [Lesson](../lessons/49-search-and-social-metadata.md) | [Q&A](../qnas/49-search-and-social-metadata.md) | [50 - Microdata and structured information](50-microdata.md) |
