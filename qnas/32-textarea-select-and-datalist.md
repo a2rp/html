@@ -385,6 +385,6 @@ D. Its label and name
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [31 - Fieldset and legend](31-fieldset-and-legend.md) | [33 - Buttons and form actions](33-buttons-and-form-actions.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [31 - Fieldset and legend](31-fieldset-and-legend.md) | [Lesson](../lessons/32-textarea-select-and-datalist.md) | [Example](../examples/32-textarea-select-and-datalist.md) | [33 - Buttons and form actions](33-buttons-and-form-actions.md) |
