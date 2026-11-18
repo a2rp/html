@@ -320,6 +320,6 @@ The text outside the SVG provides the chart's important details. The title gives
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [24 - Responsive images: picture, srcset, and sizes](24-responsive-images.md) | [26 - HTML tables: rows, columns, and cells](26-html-tables.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [24 - Responsive images: picture, srcset, and sizes](24-responsive-images.md) | [Lesson](../lessons/25-svg-and-mathml.md) | [Example](../examples/25-svg-and-mathml.md) | [26 - HTML tables: rows, columns, and cells](26-html-tables.md) |
