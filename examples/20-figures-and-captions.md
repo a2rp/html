@@ -97,3 +97,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 20 - Figures and captions](../lessons/20-figures-and-captions.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [19 - Images and alternative text](19-images-and-alt-text.md) | [Lesson](../lessons/20-figures-and-captions.md) | [Q&A](../qnas/20-figures-and-captions.md) | [21 - Audio and video](21-audio-and-video.md) |
