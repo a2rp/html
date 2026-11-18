@@ -115,3 +115,9 @@ The page uses the browser's default presentation. It does not depend on obsolete
 ## Related lesson
 
 [Read lesson 52 - Deprecated elements and obsolete HTML](../lessons/52-obsolete-html.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [51 - Safe links and embedded content](51-html-safety.md) | [Lesson](../lessons/52-obsolete-html.md) | [Q&A](../qnas/52-obsolete-html.md) | [53 - Validate and debug HTML](53-validation-and-debugging.md) |
