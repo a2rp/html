@@ -191,6 +191,6 @@ The label's for value matches the control's id. The required attribute asks the 
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [53 - Validate and debug HTML](53-validation-and-debugging.md) | [55 - HTML quick reference and glossary](55-html-reference-and-glossary.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [53 - Validate and debug HTML](53-validation-and-debugging.md) | [Lesson](../lessons/54-html-practice-projects.md) | [Example](../examples/54-html-practice-projects.md) | [55 - HTML quick reference and glossary](55-html-reference-and-glossary.md) |
