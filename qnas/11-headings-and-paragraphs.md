@@ -288,6 +288,6 @@ Practice questions for [Lesson 11 - Headings and paragraphs](../lessons/11-headi
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [10 - Metadata: charset, viewport, and description](10-document-metadata.md) | [12 - Text semantics: emphasis, importance, and meaning](12-text-semantics.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [10 - Metadata: charset, viewport, and description](10-document-metadata.md) | [Lesson](../lessons/11-headings-and-paragraphs.md) | [Example](../examples/11-headings-and-paragraphs.md) | [12 - Text semantics: emphasis, importance, and meaning](12-text-semantics.md) |
