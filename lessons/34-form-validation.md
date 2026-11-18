@@ -236,13 +236,6 @@ Only mark information required when the form truly needs it. Extra required fiel
 - `novalidate` and `formnovalidate` bypass browser validation for the relevant submission.
 - Browser checks can be bypassed. Validate submitted data on the server too.
 
-## Further reading
-
-- [MDN: Constraint validation](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation)
-- [MDN: The `required` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/required)
-- [MDN: The `pattern` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/pattern)
-- [WHATWG HTML Standard: Constraints and form validation](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#constraints)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

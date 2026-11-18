@@ -220,7 +220,7 @@ Add a link to an HTML learning resource. Give it a destination and descriptive t
 **Example answer:**
 
 ~~~html
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML documentation on MDN</a>
+<a href="https://example.com/html-guide">HTML learning guide</a>
 ~~~
 
 The `href` attribute gives the destination. The link text describes what the reader will find.
@@ -254,7 +254,7 @@ Rewrite this page as a clear, complete HTML document:
 <body>
   <h1>About me</h1>
   <p>I am learning HTML.</p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">My HTML learning resource</a>
+  <a href="https://example.com/html-guide">My HTML learning resource</a>
 </body>
 </html>
 ~~~

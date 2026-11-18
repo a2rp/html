@@ -184,7 +184,7 @@ The FAQ disclosures work using the browser's built-in `<details>` behavior. The 
 2. Open the file in a browser. Use the navigation links and expand each FAQ.
 3. Submit the form with a required field empty and observe the browser's built-in constraint check. Do not expect the sample form to complete registration because the example has no server endpoint.
 4. If you connect a real endpoint, update `action="/register"`, explain what information is collected, and validate the submitted data on the server.
-5. Run the document through the [Nu Html Checker](https://validator.w3.org/nu/) and review the page for meaning and usability as well as markup errors.
+5. Run the document through the Nu Html Checker and review the page for meaning and usability as well as markup errors.
 
 ## Related lesson
 

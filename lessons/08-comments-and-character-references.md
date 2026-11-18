@@ -230,14 +230,6 @@ The comment is in the source but is not displayed as page text. The first paragr
 - Use a reference when a quote character is part of a quoted attribute value.
 - Use HTML structure for content and CSS for visual spacing.
 
-## Further reading
-
-- [HTML Standard: HTML syntax, comments, and character references](https://html.spec.whatwg.org/multipage/syntax.html#syntax)
-- [HTML Standard: named character references](https://html.spec.whatwg.org/multipage/named-characters.html)
-- [HTML Standard: the meta charset declaration](https://html.spec.whatwg.org/multipage/semantics.html#charset)
-
----
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

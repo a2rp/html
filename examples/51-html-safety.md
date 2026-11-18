@@ -35,17 +35,17 @@ The `player.example.org` addresses and PDF path below are placeholders. Replace 
         <ul>
           <li>
             <a
-              href="https://developer.mozilla.org/en-US/docs/Web/HTML"
+              href="https://example.org/html-guide"
               target="_blank"
               rel="noopener">
-              Read the MDN HTML guide (opens in a new tab or window)
+              Read an HTML guide (opens in a new tab or window)
             </a>
           </li>
           <li>
             <a
-              href="https://html.spec.whatwg.org/multipage/links.html"
+              href="https://example.org/html-links"
               referrerpolicy="no-referrer">
-              Read the HTML links standard (sends no referrer)
+              Read an HTML links guide (sends no referrer)
             </a>
           </li>
           <li>

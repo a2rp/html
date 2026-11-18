@@ -104,11 +104,3 @@ Do not use an `<img>` in the page body to set the browser tab icon. An image ele
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |
 | :--- | --- | --- | ---: |
 | [47 - Hidden, inert, tabindex, and editable content](47-visibility-and-interaction-attributes.md) | [Q&A](../qnas/48-favicons-and-icons.md) | [Example](../examples/48-favicons-and-icons.md) | [49 - Search and social sharing metadata](49-search-and-social-metadata.md) |
-
-## References
-
-- [HTML Standard: Link type `icon`](https://html.spec.whatwg.org/multipage/links.html#link-type-icon)
-- [HTML Standard: The `sizes` attribute](https://html.spec.whatwg.org/multipage/links.html#attr-link-sizes)
-- [MDN: `rel` attribute and the `icon` link type](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/rel)
-- [MDN: `<link>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/link)
-- [MDN: Web page metadata and favicons](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Webpage_metadata)

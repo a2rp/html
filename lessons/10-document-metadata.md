@@ -143,14 +143,6 @@ The **charset** declaration tells software how to decode the document. The viewp
 - A description summarizes the page for software and may be used in search results.
 - Metadata describes the document; visible page content belongs in the **body**.
 
-## Further reading
-
-- [HTML Standard: the meta element](https://html.spec.whatwg.org/multipage/semantics.html#the-meta-element)
-- [HTML Standard: character encoding declaration](https://html.spec.whatwg.org/multipage/semantics.html#charset)
-- [W3C: CSS Device Adaptation](https://www.w3.org/TR/2011/WD-css-device-adapt-20110915/)
-
----
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

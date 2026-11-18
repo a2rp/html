@@ -270,17 +270,6 @@ These states have different presentation and interaction effects, so choose each
 
 Nested editable regions are not added to the Tab sequence by default. Confirm that this nested editing interaction is clear and useful for users.
 
-## Further reading
-
-- [HTML Standard: The `hidden` attribute](https://html.spec.whatwg.org/multipage/interaction.html#the-hidden-attribute)
-- [HTML Standard: The `inert` attribute](https://html.spec.whatwg.org/multipage/interaction.html#the-inert-attribute)
-- [HTML Standard: The `tabindex` attribute](https://html.spec.whatwg.org/multipage/interaction.html#attr-tabindex)
-- [HTML Standard: The `contenteditable` attribute](https://html.spec.whatwg.org/multipage/interaction.html#the-contenteditable-content-attribute)
-- [MDN: `hidden` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/hidden)
-- [MDN: `inert` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/inert)
-- [MDN: `tabindex` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/tabindex)
-- [MDN: `contenteditable` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/contenteditable)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

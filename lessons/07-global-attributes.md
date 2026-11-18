@@ -222,7 +222,7 @@ The HTML Standard defines more global attributes. This quick reference names sev
 
 The `role` and `aria-*` attributes add accessibility semantics and have their own rules. Prefer native HTML elements first. The later accessibility chapters explain when ARIA is appropriate.
 
-Global attributes evolve as HTML evolves. Check the [HTML Standard global attributes section](https://html.spec.whatwg.org/multipage/dom.html#global-attributes) for the authoritative list and usage rules, and check current browser support for unfamiliar attributes.
+Global attributes evolve as HTML evolves. Use this chapter as a practical guide, and check current browser support for unfamiliar attributes.
 
 ## A complete example
 

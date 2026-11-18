@@ -95,7 +95,7 @@ The corrected page fixes each issue without relying on browser recovery. The hea
 ## How to try it
 
 1. Copy the first complete HTML block using its copy button and save it as `debug-example.html`.
-2. Submit this sample to the [Nu Html Checker](https://validator.w3.org/nu/) by using direct input or uploading the file. Use an online checker only for content that is safe to submit.
+2. Submit this sample to the Nu Html Checker by using direct input or uploading the file. Use an online checker only for content that is safe to submit.
 3. Read each message and inspect the line and nearby source. A reported location may be where the checker noticed a problem, not where the mistake began.
 4. Open the file in a browser. Compare the source with the live structure in the Elements or Inspector panel. Browser repair can make these views differ.
 5. Save the corrected block as `index.html`, provide the image file, and check it with the validator again.

@@ -264,12 +264,6 @@ This fieldset is still disabled because `disabled` is a Boolean attribute. Remov
 - The Boolean `disabled` attribute disables descendant controls, prevents interaction, and excludes their values from form submission. Controls inside the first legend are an exception.
 - Use fieldsets when group context is useful, not just to draw a border.
 
-## Further reading
-
-- [W3C WAI: Grouping Controls](https://www.w3.org/WAI/tutorials/forms/grouping/)
-- [MDN: The `fieldset` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fieldset)
-- [WHATWG HTML Standard: The `fieldset` element](https://html.spec.whatwg.org/multipage/form-elements.html#the-fieldset-element)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

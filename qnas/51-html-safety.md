@@ -178,15 +178,6 @@ The title describes the frame. The sandbox restores script execution because thi
 
 **Answer:** Validate the URL before rendering it. Allow only expected schemes and destinations, such as approved HTTPS URLs. An href attribute does not make arbitrary input safe.
 
-## Further reading
-
-- [HTML Standard: Links created by a and area elements](https://html.spec.whatwg.org/multipage/links.html#links-created-by-a-and-area-elements)
-- [HTML Standard: The iframe element](https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-iframe-element)
-- [MDN: The a element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/a)
-- [MDN: rel="noopener"](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/rel/noopener)
-- [MDN: The iframe element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/iframe)
-- [OWASP: Cross Site Scripting Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

@@ -134,13 +134,6 @@ The example uses /feedback as a placeholder route. If the website has no server 
 - A server or service must process a submission that needs a result or saved data.
 - POST is not encryption. Use HTTPS and appropriate server handling for protection.
 
-## Further reading
-
-- [WHATWG - HTML Standard, Forms](https://html.spec.whatwg.org/multipage/forms.html)
-- [WHATWG - Form submission attributes](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#form-submission-attributes)
-- [MDN - The form element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form)
-- [MDN - Sending form data](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Sending_and_retrieving_form_data)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

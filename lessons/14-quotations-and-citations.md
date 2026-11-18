@@ -143,11 +143,6 @@ The example URL uses the reserved example.com domain. Replace it with the real s
 - Add a visible source link when readers need to access the source.
 - HTML markup does not verify that a quote or attribution is accurate.
 
-## Further reading
-
-- [WHATWG HTML Standard - The blockquote element](https://html.spec.whatwg.org/multipage/grouping-content.html#the-blockquote-element)
-- [WHATWG HTML Standard - The q and cite elements](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-q-element)
-
 ## Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

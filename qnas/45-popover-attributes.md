@@ -392,13 +392,6 @@ Manual popovers do not automatically close one another. Each one has an explicit
 
 **Answer:** A shown popover is displayed in the browser's top layer, so it is not clipped by ancestor overflow. Its DOM node stays where it was authored, so its source and reading order do not change.
 
-## Further reading
-
-- [HTML Standard: The `popover` attribute](https://html.spec.whatwg.org/multipage/popover.html#the-popover-attribute)
-- [HTML Standard: Popover target attributes](https://html.spec.whatwg.org/multipage/popover.html#the-popover-target-attributes)
-- [MDN: The `popover` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/popover)
-- [MDN: Using the Popover API](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API/Using)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

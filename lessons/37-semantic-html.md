@@ -204,16 +204,6 @@ Extra ARIA does not make incorrect HTML correct. First choose the right native e
 - Native HTML provides standard semantics and behavior, but good accessibility still depends on the whole implementation.
 - ARIA can supplement HTML semantics, but does not automatically provide native behavior.
 
-## Further reading
-
-- [MDN: Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
-- [MDN: HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements)
-- [MDN: The `em` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/em)
-- [MDN: The `strong` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/strong)
-- [MDN: The `a` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/a)
-- [W3C ARIA Authoring Practices: Structural roles](https://www.w3.org/WAI/ARIA/apg/practices/structural-roles/)
-- [W3C: ARIA in HTML](https://www.w3.org/TR/html-aria/)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

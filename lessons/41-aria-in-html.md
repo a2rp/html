@@ -243,15 +243,6 @@ Use this checklist when reviewing a page:
 - `aria-hidden="true"` affects the accessibility tree, not visual display, and must not hide focusable content.
 - Test what the page communicates and how it works, not just whether its markup validates.
 
-## Further reading
-
-- [W3C ARIA Authoring Practices: Read Me First](https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/)
-- [W3C ARIA Authoring Practices: Names and Descriptions](https://www.w3.org/WAI/ARIA/apg/practices/names-and-descriptions/)
-- [W3C ARIA in HTML](https://www.w3.org/TR/html-aria/)
-- [MDN: ARIA techniques](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Guides/Techniques)
-- [MDN: The `aria-hidden` attribute](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-hidden)
-- [MDN: Button role](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Roles/button_role)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

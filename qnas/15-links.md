@@ -300,12 +300,9 @@ The page link and the favorite action are separate controls. Each can be used in
 
 The first and third navigate to resources or handlers, so they are links. Submitting a form is an action, so it uses a button.
 
-## Further reading
+## Related lesson
 
 - [Lesson 15 - Links and the anchor element](../lessons/15-links.md)
-- [WHATWG HTML Standard - The a element](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-a-element)
-- [WHATWG HTML Standard - Following hyperlinks and link targets](https://html.spec.whatwg.org/multipage/links.html)
-- [W3C WAI - Providing link text that describes the purpose of a link](https://www.w3.org/WAI/WCAG21/Techniques/general/G91.html)
 
 ## Chapter navigation
 

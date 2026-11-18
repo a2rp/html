@@ -165,11 +165,6 @@ The markup tells browsers and assistive technology what the phrases represent. I
 - `time` can pair a readable date or time with a valid machine-readable value.
 - Choose an element for its meaning, not just for its default visual style.
 
-## Further reading
-
-- [WHATWG HTML Standard - Text-level semantics](https://html.spec.whatwg.org/multipage/text-level-semantics.html)
-- [WHATWG HTML Standard - Dates and times](https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#dates-and-times)
-
 ## Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

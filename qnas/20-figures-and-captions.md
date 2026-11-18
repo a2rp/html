@@ -345,13 +345,9 @@ The paragraph makes the important trend available as text. The alt value identif
 
 The quote is repeated from the article for emphasis, so aside is a suitable grouping. It is not a separate figure in this context.
 
-## Further reading
+## Related lesson
 
 - [Lesson 20 - Figures and captions](../lessons/20-figures-and-captions.md)
-- [WHATWG HTML Standard - The figure element](https://html.spec.whatwg.org/multipage/grouping-content.html#the-figure-element)
-- [WHATWG HTML Standard - The figcaption element](https://html.spec.whatwg.org/multipage/grouping-content.html#the-figcaption-element)
-- [MDN - The figure element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/figure)
-- [W3C WAI - Complex images](https://www.w3.org/WAI/tutorials/images/complex/)
 
 ## Chapter navigation
 

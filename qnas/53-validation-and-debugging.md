@@ -163,13 +163,6 @@ Each anchor has its own destination and neither link contains the other.
 
 **Answer:** Confirm the browser address points to the expected deployed page, save the correct source file, and check that the deployed version was updated. Reload the page, then inspect the served document rather than assuming the local file and deployed URL are identical.
 
-## Further reading
-
-- [Nu Html Checker](https://validator.w3.org/nu/)
-- [WHATWG: HTML conformance checkers](https://whatwg.org/validator/)
-- [MDN: Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Debugging_HTML)
-- [MDN: What are browser developer tools?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Tools_and_setup/What_are_browser_developer_tools)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

@@ -210,7 +210,7 @@ Build a single, HTML-only reference page that a learner can use to review common
         <ul>
           <li><a href="#glossary">Jump to the glossary on this page</a></li>
           <li><a href="mailto:hello@example.org">Email the example team</a></li>
-          <li><a href="https://html.spec.whatwg.org/">Read the HTML Standard</a></li>
+          <li><a href="https://example.com/html-standard">Read the HTML Standard</a></li>
         </ul>
 
         <p>
@@ -674,7 +674,7 @@ The page uses browser default presentation because it contains no CSS. The discl
 2. Open the file in a browser. Use the navigation links to jump between sections.
 3. Expand the disclosure and try submitting a word in the search field. Notice that the URL changes, but no search service is contacted.
 4. View the page source and compare the complete document with the code samples displayed within the page.
-5. Run the saved document through the [Nu Html Checker](https://validator.w3.org/nu/). Review the page for meaning and usability as well as markup errors.
+5. Run the saved document through the Nu Html Checker. Review the page for meaning and usability as well as markup errors.
 
 ## Related lesson
 

@@ -254,13 +254,6 @@ If buttons perform different actions, give them distinct text, such as “Save d
 - HTML starts the request, but a server must implement its processing URL.
 - Make button text specific and use reset only when restoring initial values is expected.
 
-## Further reading
-
-- [MDN: The `button` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/button)
-- [MDN: The `form` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form)
-- [MDN: Submit buttons](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input/submit)
-- [WHATWG HTML Standard: The `button` element](https://html.spec.whatwg.org/multipage/form-elements.html#the-button-element)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

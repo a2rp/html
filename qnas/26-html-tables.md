@@ -391,13 +391,9 @@ tbody groups the main data row, and tfoot groups the summary row.
 
 **Answer:** The example uses cells to position unrelated page content, so it is not tabular data. A table would be appropriate for information such as a timetable with days in one column and session times in another.
 
-## Further reading
+## Related lesson
 
 - [Lesson 26 - HTML tables: rows, columns, and cells](../lessons/26-html-tables.md)
-- [WHATWG - HTML Standard, Tables](https://html.spec.whatwg.org/multipage/tables.html)
-- [MDN - HTML table basics](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_table_basics)
-- [MDN - The table element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/table)
-- [MDN - The td element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/td)
 
 ## Chapter navigation
 

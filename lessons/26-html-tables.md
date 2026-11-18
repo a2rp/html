@@ -174,13 +174,6 @@ Before adding a span, sketch the rows and columns or count the positions. This h
 - Plan the table grid so values stay under the intended columns.
 - Use tables for data, not as a page layout tool.
 
-## Further reading
-
-- [WHATWG - HTML Standard, Tables](https://html.spec.whatwg.org/multipage/tables.html)
-- [MDN - HTML table basics](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_table_basics)
-- [MDN - The table element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/table)
-- [MDN - The td element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/td)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

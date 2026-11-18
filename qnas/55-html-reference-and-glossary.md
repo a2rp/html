@@ -180,12 +180,6 @@ The ordered list is appropriate because the steps have a sequence.
 
 The label's for value matches the input's id. The name identifies the submitted value. Required asks the browser to check that a value is present before ordinary submission.
 
-## Further reading
-
-- [WHATWG HTML Living Standard](https://html.spec.whatwg.org/multipage/)
-- [MDN: HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements)
-- [MDN: HTML attributes reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

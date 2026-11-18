@@ -377,13 +377,9 @@ The paragraph may be useful surrounding text, but it does not serve as the table
 
 **Answer:** Consider whether the data can be divided into smaller, related tables with simpler row and column relationships. If the complex table is necessary, identify each header with a unique id and connect each data cell to its relevant headers.
 
-## Further reading
+## Related lesson
 
 - [Lesson 27 - Table headings, captions, and accessible structure](../lessons/27-accessible-tables.md)
-- [W3C WAI - Tables Tutorial](https://www.w3.org/WAI/tutorials/tables/)
-- [W3C WAI - Tables with two headers](https://www.w3.org/WAI/tutorials/tables/two-headers/)
-- [W3C WAI - Caption and summary](https://www.w3.org/WAI/tutorials/tables/caption-summary/)
-- [WHATWG - HTML Standard, Tables](https://html.spec.whatwg.org/multipage/tables.html)
 
 ## Chapter navigation
 

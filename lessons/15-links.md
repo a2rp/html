@@ -166,12 +166,6 @@ Each anchor has an `href` and link text that identifies what following it will d
 - `target="_blank"` requests a new browsing context, often a tab.
 - Do not nest interactive controls inside a link.
 
-## Further reading
-
-- [WHATWG HTML Standard - The a element](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-a-element)
-- [WHATWG HTML Standard - Following hyperlinks and link targets](https://html.spec.whatwg.org/multipage/links.html)
-- [W3C WAI - Providing link text that describes the purpose of a link](https://www.w3.org/WAI/WCAG21/Techniques/general/G91.html)
-
 ## Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

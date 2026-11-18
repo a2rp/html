@@ -11,8 +11,8 @@ Link text should describe the destination or action. When it helps the visitor, 
 ~~~html
 <p>
   Read the
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    MDN HTML documentation
+  <a href="https://example.org/html-guide">
+    HTML guide
   </a>.
 </p>
 
@@ -190,15 +190,6 @@ In a real application, the button needs behavior supplied by the application. Th
 - Do not use executable URL schemes such as `javascript:` for ordinary links.
 - Give embedded content a title, limit its capabilities, and provide a direct link.
 - HTML attributes are not a substitute for validating untrusted URLs or isolating untrusted content.
-
-## Further reading
-
-- [HTML Standard: Links created by `a` and `area` elements](https://html.spec.whatwg.org/multipage/links.html#links-created-by-a-and-area-elements)
-- [HTML Standard: The `iframe` element](https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-iframe-element)
-- [MDN: The `a` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/a)
-- [MDN: `rel="noopener"`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/rel/noopener)
-- [MDN: The `iframe` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/iframe)
-- [OWASP: Cross Site Scripting Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
 
 ### Chapter navigation
 

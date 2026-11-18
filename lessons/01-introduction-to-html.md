@@ -84,7 +84,7 @@ Here is a small page you can save and open in a browser:
     <p>HTML gives this content <strong>structure and meaning</strong>.</p>
     <p>
       Read more about
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML on MDN</a>.
+      <a href="https://example.com/html-guide">HTML guide</a>.
     </p>
   </body>
 </html>

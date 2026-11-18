@@ -150,14 +150,3 @@ Nested editable regions are not added to the sequential keyboard navigation orde
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |
 | :--- | --- | --- | ---: |
 | [46 - Template elements](46-template-element.md) | [Q&A](../qnas/47-visibility-and-interaction-attributes.md) | [Example](../examples/47-visibility-and-interaction-attributes.md) | [48 - Favicons and document icons](48-favicons-and-icons.md) |
-
-## References
-
-- [HTML Standard: The `hidden` attribute](https://html.spec.whatwg.org/multipage/interaction.html#the-hidden-attribute)
-- [HTML Standard: The `inert` attribute](https://html.spec.whatwg.org/multipage/interaction.html#the-inert-attribute)
-- [HTML Standard: The `tabindex` attribute](https://html.spec.whatwg.org/multipage/interaction.html#attr-tabindex)
-- [HTML Standard: The `contenteditable` attribute](https://html.spec.whatwg.org/multipage/interaction.html#the-contenteditable-content-attribute)
-- [MDN: `hidden` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/hidden)
-- [MDN: `inert` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/inert)
-- [MDN: `tabindex` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/tabindex)
-- [MDN: `contenteditable` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/contenteditable)

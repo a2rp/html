@@ -178,12 +178,6 @@ The unordered list groups materials whose order does not matter. The ordered lis
 - Use `dl` with `dt` and `dd` for terms paired with descriptions or values.
 - Select list elements for their meaning, then use CSS for visual styling.
 
-## Further reading
-
-- [WHATWG HTML Standard - The ul element](https://html.spec.whatwg.org/multipage/grouping-content.html#the-ul-element)
-- [WHATWG HTML Standard - The ol element](https://html.spec.whatwg.org/multipage/grouping-content.html#the-ol-element)
-- [WHATWG HTML Standard - The dl, dt, and dd elements](https://html.spec.whatwg.org/multipage/grouping-content.html#the-dl-element)
-
 ## Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

@@ -144,13 +144,6 @@ Avoid filler such as “image of” or the file name unless those words add usef
 - For complex images, provide the detailed information in page text.
 - Keep `alt` concise and useful. It is not a caption or tooltip.
 
-## Further reading
-
-- [WHATWG HTML Standard - The img element](https://html.spec.whatwg.org/multipage/embedded-content.html#the-img-element)
-- [WHATWG HTML Standard - Requirements for image alternatives](https://html.spec.whatwg.org/multipage/images.html#alt)
-- [W3C WAI - Images tutorial](https://www.w3.org/WAI/tutorials/images/)
-- [W3C WAI - Alt decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
-
 ## Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

@@ -169,14 +169,6 @@ The document title names the page outside its content. The **h1** introduces the
 - Keep headings clear and use levels in a sensible order.
 - A **br** creates a line break, not a new paragraph or general spacing.
 
-## Further reading
-
-- [HTML Standard: headings and the h1 to h6 elements](https://html.spec.whatwg.org/multipage/sections.html#headings-and-outlines)
-- [HTML Standard: the p element](https://html.spec.whatwg.org/multipage/grouping-content.html#the-p-element)
-- [W3C WAI: headings](https://www.w3.org/WAI/tutorials/page-structure/headings/)
-
----
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

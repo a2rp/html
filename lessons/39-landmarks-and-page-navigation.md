@@ -291,16 +291,6 @@ Write link text that identifies the destination, such as "Choosing plants". Avoi
 - Use meaningful link text in navigation and tables of contents.
 - Landmarks, headings, and skip links support different parts of page navigation.
 
-## Further reading
-
-- [W3C WAI: Page Structure Tutorial](https://www.w3.org/WAI/tutorials/page-structure/)
-- [W3C WAI: Landmark Regions](https://www.w3.org/WAI/ARIA/apg/practices/landmark-regions/)
-- [W3C WAI: Headings](https://www.w3.org/WAI/tutorials/page-structure/headings/)
-- [W3C WAI: In-page Navigation](https://www.w3.org/WAI/tutorials/page-structure/in-page-navigation/)
-- [MDN: Heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/Heading_Elements)
-- [MDN: ARIA landmark role](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Roles/landmark_role)
-- [W3C: Accessible Rich Internet Applications 1.2](https://www.w3.org/TR/wai-aria-1.2/)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

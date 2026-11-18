@@ -340,12 +340,6 @@ The hint does not guarantee that the selected or transmitted file is safe or has
 
 **Answer:** It is sent to the current page URL. Add an explicit action when the form should go to a different processing endpoint.
 
-## Further reading
-
-- [MDN: Sending form data](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Sending_and_retrieving_form_data)
-- [MDN: The `form` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form)
-- [MDN: File input](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input/file)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

@@ -155,13 +155,6 @@ A figure does not replace the surrounding explanation. If readers need informati
 - Alternative text describes an image for people who cannot see it; a caption labels or explains the figure for page readers.
 - Use figures for meaning and structure, not just for visual styling.
 
-## Further reading
-
-- [WHATWG HTML Standard - The figure element](https://html.spec.whatwg.org/multipage/grouping-content.html#the-figure-element)
-- [WHATWG HTML Standard - The figcaption element](https://html.spec.whatwg.org/multipage/grouping-content.html#the-figcaption-element)
-- [MDN - The figure element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/figure)
-- [W3C WAI - Complex images](https://www.w3.org/WAI/tutorials/images/complex/)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

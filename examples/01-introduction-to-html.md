@@ -21,7 +21,7 @@ How do you create a complete HTML page that introduces HTML and shows how markup
       <p>HTML gives web content structure and meaning.</p>
       <p>
         Learn more from
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN's HTML documentation</a>.
+        <a href="https://example.com/html-guide">HTML guide</a>.
       </p>
     </main>
   </body>
@@ -30,7 +30,7 @@ How do you create a complete HTML page that introduces HTML and shows how markup
 
 ## Expected output
 
-The browser tab displays the title **Learning HTML**. The page displays a large heading, followed by three paragraphs. The word **HTML** in the first paragraph appears bold by default. The final paragraph contains a link labeled **MDN's HTML documentation**.
+The browser tab displays the title **Learning HTML**. The page displays a large heading, followed by three paragraphs. The word **HTML** in the first paragraph appears bold by default. The final paragraph contains a link labeled **HTML guide**.
 
 The page uses the browser's default styling because this example includes no CSS. This code is shown in the Markdown file as text. It is not executed here.
 

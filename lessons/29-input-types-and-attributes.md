@@ -262,13 +262,6 @@ Use disabled when the control is unavailable. Use readonly when users should be 
 - Disabled values are not submitted. Read-only values generally remain part of form data.
 - A password input masks its display but does not encrypt the value.
 
-## Further reading
-
-- [WHATWG - HTML Standard, The input element](https://html.spec.whatwg.org/multipage/input.html)
-- [MDN - The input element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input)
-- [MDN - Input validation](https://developer.mozilla.org/en-US/docs/Web/Security/Defenses/Input_validation)
-- [MDN - Constraint validation](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

@@ -302,17 +302,6 @@ Semantic elements communicate the roles of content. Use CSS to create columns, s
 - `<footer>` contains supporting information for its page or section and does not create a new section.
 - Choose these elements for their meaning. Use CSS to control their visual layout.
 
-## Further reading
-
-- [WHATWG HTML Standard: Sections](https://html.spec.whatwg.org/multipage/sections.html)
-- [MDN: Structuring documents](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents)
-- [MDN: The `header` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/header)
-- [MDN: The `nav` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/nav)
-- [MDN: The `main` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/main)
-- [MDN: The `section` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/section)
-- [MDN: The `article` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/article)
-- [MDN: The `footer` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/footer)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

@@ -338,12 +338,9 @@ The nested list belongs inside the parent li, not in a separate list after the p
 
 Each label is a dt and each corresponding value is a dd.
 
-## Further reading
+## Related lesson
 
 - [Lesson 18 - Unordered, ordered, and description lists](../lessons/18-lists.md)
-- [WHATWG HTML Standard - The ul element](https://html.spec.whatwg.org/multipage/grouping-content.html#the-ul-element)
-- [WHATWG HTML Standard - The ol element](https://html.spec.whatwg.org/multipage/grouping-content.html#the-ol-element)
-- [WHATWG HTML Standard - The dl, dt, and dd elements](https://html.spec.whatwg.org/multipage/grouping-content.html#the-dl-element)
 
 ## Chapter navigation
 

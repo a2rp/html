@@ -368,14 +368,6 @@ CSS can continue to control visual alignment, but `lang` and `dir` describe the 
 
 `dir="auto"` determines a base direction from the comment's text. Do not add a `lang` value unless the language is known.
 
-## Further reading
-
-- [HTML Standard: The `lang` attribute](https://html.spec.whatwg.org/dev/dom.html#the-lang-and-xml:lang-attributes)
-- [HTML Standard: The `dir` attribute and bidirectional text](https://html.spec.whatwg.org/multipage/dom.html#the-dir-attribute)
-- [HTML Standard: The `bdi` and `bdo` elements](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-bdi-element)
-- [MDN: The `lang` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/lang)
-- [MDN: The `dir` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/dir)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

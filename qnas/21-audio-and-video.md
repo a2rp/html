@@ -346,15 +346,9 @@ Captions provide synchronized audio text. The transcript can also explain import
 
 Boolean attributes are enabled when present. Remove muted instead of setting it to false.
 
-## Further reading
+## Related lesson
 
 - [Lesson 21 - Audio and video](../lessons/21-audio-and-video.md)
-- [WHATWG HTML Standard - Audio and video](https://html.spec.whatwg.org/multipage/media.html)
-- [WHATWG HTML Standard - The source element](https://html.spec.whatwg.org/multipage/embedded-content.html#the-source-element)
-- [WHATWG HTML Standard - The track element](https://html.spec.whatwg.org/multipage/media.html#the-track-element)
-- [W3C WAI - Planning audio and video media](https://www.w3.org/WAI/media/av/planning/)
-- [W3C WAI - Transcripts](https://www.w3.org/WAI/media/av/transcripts/)
-- [W3C WAI - Video captions](https://www.w3.org/WAI/perspective-videos/captions/)
 
 ## Chapter navigation
 

@@ -185,15 +185,6 @@ del marks removed content and ins marks inserted content. This communicates an e
 
 Use ul and li for an unordered list.
 
-## Further reading
-
-- [HTML Standard: Obsolete features](https://html.spec.whatwg.org/multipage/obsolete.html)
-- [MDN: HTML elements reference, obsolete and deprecated elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements#obsolete_and_deprecated_elements)
-- [HTML Standard: The abbr element](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-abbr-element)
-- [HTML Standard: The s element](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-s-element)
-- [HTML Standard: The del and ins elements](https://html.spec.whatwg.org/multipage/edits.html#the-del-element)
-- [HTML Standard: The code element](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-code-element)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

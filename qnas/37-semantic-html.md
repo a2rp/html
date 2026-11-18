@@ -310,16 +310,6 @@ A custom widget may need additional accessible state information, but simply add
 
 **Answer:** Check whether the text actually introduces a section. If it does, use the heading element that matches the document hierarchy and keep the visual style with CSS. If it is ordinary prose, leave it as a paragraph even if its design is large.
 
-## Further reading
-
-- [MDN: Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
-- [MDN: HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements)
-- [MDN: The `em` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/em)
-- [MDN: The `strong` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/strong)
-- [MDN: The `a` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/a)
-- [W3C ARIA Authoring Practices: Structural roles](https://www.w3.org/WAI/ARIA/apg/practices/structural-roles/)
-- [W3C: ARIA in HTML](https://www.w3.org/TR/html-aria/)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

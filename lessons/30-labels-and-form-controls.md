@@ -254,13 +254,6 @@ Button text should tell the user what action it performs. Use descriptive text r
 - Button text names a button; a separate label is generally unnecessary.
 - Use `fieldset` and `legend` to identify a related group of controls, as explained in the next chapter.
 
-## Further reading
-
-- [W3C WAI: Labeling Controls](https://www.w3.org/WAI/tutorials/forms/labels/)
-- [MDN: The `label` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/label)
-- [MDN: The `placeholder` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/placeholder)
-- [WHATWG HTML Standard: The `label` element](https://html.spec.whatwg.org/multipage/forms.html#the-label-element)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

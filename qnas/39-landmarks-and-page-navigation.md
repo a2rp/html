@@ -367,16 +367,6 @@ Descriptive link text remains understandable when a person reviews links out of 
 
 **Answer:** Reconsider whether every region needs to be a landmark. Keep direct region navigation for content important enough to find quickly. Use headings and ordinary sections for the rest so the landmark list stays useful.
 
-## Further reading
-
-- [W3C WAI: Page Structure Tutorial](https://www.w3.org/WAI/tutorials/page-structure/)
-- [W3C WAI: Landmark Regions](https://www.w3.org/WAI/ARIA/apg/practices/landmark-regions/)
-- [W3C WAI: Headings](https://www.w3.org/WAI/tutorials/page-structure/headings/)
-- [W3C WAI: In-page Navigation](https://www.w3.org/WAI/tutorials/page-structure/in-page-navigation/)
-- [MDN: Heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/Heading_Elements)
-- [MDN: ARIA landmark role](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Roles/landmark_role)
-- [W3C: Accessible Rich Internet Applications 1.2](https://www.w3.org/TR/wai-aria-1.2/)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

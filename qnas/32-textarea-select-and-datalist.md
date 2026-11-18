@@ -376,13 +376,6 @@ D. Its label and name
 </select>
 ~~~
 
-## Further reading
-
-- [MDN: The `textarea` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/textarea)
-- [MDN: The `select` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/select)
-- [MDN: The `option` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/option)
-- [MDN: The `datalist` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/datalist)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

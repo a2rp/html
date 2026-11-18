@@ -235,13 +235,6 @@ The popover appears above the page visually but remains at its original position
 - Popovers are non-modal. Use a modal dialog when the rest of the page must be blocked.
 - Choose meaningful HTML for the popover content and give every invoking control a clear label.
 
-## Further reading
-
-- [HTML Standard: The `popover` attribute](https://html.spec.whatwg.org/multipage/popover.html#the-popover-attribute)
-- [HTML Standard: Popover target attributes](https://html.spec.whatwg.org/multipage/popover.html#the-popover-target-attributes)
-- [MDN: The `popover` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/popover)
-- [MDN: Using the Popover API](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API/Using)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

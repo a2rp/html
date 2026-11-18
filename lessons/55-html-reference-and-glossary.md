@@ -294,12 +294,6 @@ Use a native control that matches the interaction. For example, details is a dis
 | Metadata and structured data | [49 - Search and social sharing metadata](49-search-and-social-metadata.md), [50 - Microdata and structured information](50-microdata.md) |
 | Safety, obsolete markup, and validation | [51 - Safe links and embedded content](51-html-safety.md), [52 - Deprecated elements and obsolete HTML](52-obsolete-html.md), [53 - Validate and debug HTML](53-validation-and-debugging.md) |
 
-## References
-
-- [WHATWG HTML Living Standard](https://html.spec.whatwg.org/multipage/)
-- [MDN: HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements)
-- [MDN: HTML attributes reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

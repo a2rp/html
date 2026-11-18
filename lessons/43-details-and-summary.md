@@ -257,13 +257,6 @@ Do not make required instructions available only after someone opens an item if 
 - Use disclosures for optional supporting information, not for tabs, menus, dialogs, or footnotes.
 - Add scripting only when the page needs extra behavior beyond the built-in disclosure.
 
-## Further reading
-
-- [HTML Standard: The `details` element](https://html.spec.whatwg.org/multipage/interactive-elements.html#the-details-element)
-- [HTML Standard: The `summary` element](https://html.spec.whatwg.org/multipage/interactive-elements.html#the-summary-element)
-- [MDN: The `<details>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details)
-- [MDN: The `<summary>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/summary)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

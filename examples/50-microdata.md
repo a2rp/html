@@ -95,7 +95,7 @@ The link points to a placeholder URL. Replace it with the real destination befor
 2. Open the file in a browser and read the page. Its appearance comes from the browser's default styles, not from the Microdata attributes.
 3. Inspect the source and find the Book item, its properties, and the nested Person and Organization items.
 4. Replace the placeholder link with the real destination, and keep each marked value accurate for that page.
-5. Check the markup with the [Schema.org Markup Validator](https://validator.schema.org/). A validator can help inspect the structure, but it cannot confirm that invented or incorrect content is true.
+5. Check the markup with the Schema.org Markup Validator. A validator can help inspect the structure, but it cannot confirm that invented or incorrect content is true.
 
 ## Related lesson
 

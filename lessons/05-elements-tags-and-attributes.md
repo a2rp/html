@@ -203,7 +203,7 @@ The attributes in this page add information to specific elements:
 <body>
   <h1 class="page-title">Elements and attributes</h1>
   <p id="introduction">An element describes a kind of content.</p>
-  <a href="https://developer.mozilla.org/">Read an HTML reference</a>
+  <a href="https://example.com/html-guide">Read an HTML guide</a>
 </body>
 </html>
 ~~~

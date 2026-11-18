@@ -387,13 +387,6 @@ The browser already exposes the native disclosure state. A separate `aria-expand
 
 **Answer:** Use a tab interface pattern, not `<details>`. A disclosure reveals or hides supporting content. Tabs switch the selected panel within a set and have different semantics and keyboard interactions.
 
-## Further reading
-
-- [HTML Standard: The `details` element](https://html.spec.whatwg.org/multipage/interactive-elements.html#the-details-element)
-- [HTML Standard: The `summary` element](https://html.spec.whatwg.org/multipage/interactive-elements.html#the-summary-element)
-- [MDN: The `<details>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details)
-- [MDN: The `<summary>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/summary)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

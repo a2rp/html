@@ -336,12 +336,9 @@ The improved title concisely explains what the frame contains.
 
 If visitors only need to read the report, a normal link may be simpler than embedding a full page.
 
-## Further reading
+## Related lesson
 
 - [Lesson 22 - The iframe element and embedded pages](../lessons/22-iframes-and-embedded-pages.md)
-- [WHATWG HTML Standard - The iframe element](https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-iframe-element)
-- [MDN - The iframe element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/iframe)
-- [W3C WAI - Using the title attribute of the iframe element](https://www.w3.org/WAI/WCAG21/Techniques/html/H64.html)
 
 ## Chapter navigation
 

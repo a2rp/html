@@ -172,12 +172,6 @@ The page uses separate navigation regions for the main site links, breadcrumb tr
 - Previous and next links should point only to pages that exist.
 - A small related link group does not always need its own `nav`.
 
-## Further reading
-
-- [WHATWG HTML Standard - The nav element](https://html.spec.whatwg.org/multipage/sections.html#the-nav-element)
-- [W3C WAI - Navigation landmarks](https://www.w3.org/WAI/ARIA/apg/patterns/landmarks/examples/navigation.html)
-- [W3C WAI - Breadcrumb pattern](https://www.w3.org/WAI/ARIA/apg/patterns/breadcrumb/)
-
 ## Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

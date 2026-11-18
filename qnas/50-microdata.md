@@ -177,14 +177,6 @@ The `datetime` attribute provides the Microdata value, while the text appears on
 
 For an `a` element, the Microdata value comes from `href`, not from its visible text.
 
-## Further reading
-
-- [HTML Standard: Microdata](https://html.spec.whatwg.org/multipage/microdata.html)
-- [Schema.org: Book](https://schema.org/Book)
-- [Schema.org: Data model](https://schema.org/docs/datamodel.html)
-- [Google Search Central: Introduction to structured data](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)
-- [Google Search Central: Structured data policies](https://developers.google.com/search/docs/appearance/structured-data/sd-policies)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

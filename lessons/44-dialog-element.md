@@ -305,15 +305,6 @@ Changing the attribute directly does not perform all the dialog closing steps. U
 - A native modal opened with `showModal()` provides modal semantics and makes the rest of the document inert.
 - Use dialogs for focused tasks, not as a generic substitute for page content, disclosures, or tabs.
 
-## Further reading
-
-- [HTML Standard: The `dialog` element](https://html.spec.whatwg.org/multipage/interactive-elements.html#the-dialog-element)
-- [HTML Standard: Dialog methods and closing](https://html.spec.whatwg.org/multipage/interactive-elements.html#the-dialog-element)
-- [MDN: The `<dialog>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog)
-- [MDN: The `<button>` element and command attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/button)
-- [MDN: `HTMLDialogElement`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement)
-- [MDN: The `close()` method](https://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement/close)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

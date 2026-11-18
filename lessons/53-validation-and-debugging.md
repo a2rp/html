@@ -19,7 +19,7 @@ The report usually includes a message and a line or column location. Read the wh
 
 ## Use the Nu Html Checker
 
-The [Nu Html Checker](https://validator.w3.org/nu/) can check HTML supplied in several ways:
+The Nu Html Checker can check HTML supplied in several ways:
 
 1. Enter the address of a publicly available page.
 2. Upload an HTML file.
@@ -175,13 +175,6 @@ Automated checkers are useful, but they cannot replace human review of meaning a
 - Developer tools inspect the browser's current DOM; source view shows the original markup.
 - No validator can decide every question of meaning, accessibility, or usability.
 - Validate, inspect, use, and review the page.
-
-## Further reading
-
-- [Nu Html Checker](https://validator.w3.org/nu/)
-- [WHATWG: HTML conformance checkers](https://whatwg.org/validator/)
-- [MDN: Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Debugging_HTML)
-- [MDN: What are browser developer tools?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Tools_and_setup/What_are_browser_developer_tools)
 
 ### Chapter navigation
 

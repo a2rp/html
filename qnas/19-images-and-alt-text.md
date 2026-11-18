@@ -299,13 +299,9 @@ The image is decorative, so it should have an empty alt value. Do not omit the a
 
 The icon is functional, so alt describes the link's destination rather than its visual appearance.
 
-## Further reading
+## Related lesson
 
 - [Lesson 19 - Images and alternative text](../lessons/19-images-and-alt-text.md)
-- [WHATWG HTML Standard - The img element](https://html.spec.whatwg.org/multipage/embedded-content.html#the-img-element)
-- [WHATWG HTML Standard - Requirements for image alternatives](https://html.spec.whatwg.org/multipage/images.html#alt)
-- [W3C WAI - Images tutorial](https://www.w3.org/WAI/tutorials/images/)
-- [W3C WAI - Alt decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
 
 ## Chapter navigation
 

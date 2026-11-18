@@ -327,13 +327,9 @@ The link is outside the iframe and remains available if the embedded map cannot 
 
 **Answer:** Do not put an arbitrary submitted URL directly into src. Accept only URLs from providers and paths that the application explicitly supports, validate the submitted value, and use that trusted embed URL. If the content is user-generated HTML, serve it from a separate origin and sandbox it.
 
-## Further reading
+## Related lesson
 
 - [Lesson 23 - Embedding external content safely](../lessons/23-safe-embedded-content.md)
-- [WHATWG HTML Standard - The iframe element](https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-iframe-element)
-- [MDN - The iframe element and sandbox tokens](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/iframe)
-- [MDN - General embedding technologies](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/General_embedding_technologies)
-- [MDN - Permissions Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Permissions_Policy)
 
 ## Chapter navigation
 

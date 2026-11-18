@@ -325,12 +325,6 @@ The date values use the format expected by `type="date"`.
 
 **Answer:** No. Browser checks can be bypassed, so the server must validate all submitted values independently before using them.
 
-## Further reading
-
-- [MDN: Constraint validation](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation)
-- [MDN: The `required` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/required)
-- [MDN: The `pattern` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/pattern)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

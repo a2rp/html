@@ -257,14 +257,6 @@ The first uses the standard HTML icon relation. The second uses a platform-speci
 
 The icon and title serve separate purposes in browser interfaces.
 
-## Further reading
-
-- [HTML Standard: Link type `icon`](https://html.spec.whatwg.org/multipage/links.html#link-type-icon)
-- [HTML Standard: The `sizes` attribute](https://html.spec.whatwg.org/multipage/links.html#attr-link-sizes)
-- [MDN: `rel` attribute and the `icon` link type](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/rel)
-- [MDN: `<link>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/link)
-- [MDN: Web page metadata and favicons](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Webpage_metadata)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

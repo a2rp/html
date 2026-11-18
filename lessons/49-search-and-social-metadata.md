@@ -135,12 +135,3 @@ A page may contain a `keywords` metadata field, but Google Search does not use `
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |
 | :--- | --- | --- | ---: |
 | [48 - Favicons and document icons](48-favicons-and-icons.md) | [Q&A](../qnas/49-search-and-social-metadata.md) | [Example](../examples/49-search-and-social-metadata.md) | [50 - Microdata and structured information](50-microdata.md) |
-
-## References
-
-- [HTML Standard: The `title` element](https://html.spec.whatwg.org/multipage/semantics.html#the-title-element)
-- [HTML Standard: The `meta` element](https://html.spec.whatwg.org/multipage/semantics.html#the-meta-element)
-- [Google Search Central: Meta tags Google supports](https://developers.google.com/search/docs/crawling-indexing/special-tags)
-- [Google Search Central: How snippets are created](https://developers.google.com/search/docs/appearance/snippet)
-- [Google Search Central: Canonical URLs](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls)
-- [The Open Graph protocol](https://ogp.me/)

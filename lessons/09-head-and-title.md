@@ -140,13 +140,6 @@ The **meta** elements in this example are introduced here because they commonly 
 - The **title** element is different from a visible **h1** and from the **title** attribute.
 - Keep the title text clear, concise, and specific to the page.
 
-## Further reading
-
-- [HTML Standard: the head element](https://html.spec.whatwg.org/multipage/semantics.html#the-head-element)
-- [HTML Standard: the title element](https://html.spec.whatwg.org/multipage/semantics.html#the-title-element)
-
----
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

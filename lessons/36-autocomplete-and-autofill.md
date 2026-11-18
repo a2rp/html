@@ -285,12 +285,6 @@ Autocomplete is a hint, not a command that forces autofill. The browser may have
 - Autofill behavior depends on the browser and the user's settings.
 - Avoid disabling autocomplete broadly. Browsers may still offer password management on login fields.
 
-## Further reading
-
-- [MDN: The `autocomplete` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/autocomplete)
-- [MDN: Password form best practices](https://developer.mozilla.org/en-US/docs/Web/Security/Authentication/Passwords)
-- [WHATWG HTML Standard: Autofill field names](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill-field-name)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

@@ -312,11 +312,9 @@ Ordinary punctuation is enough for this use.
 
 The cite element marks the article title, q marks the quoted words, the cite attribute stores the source URL, and the anchor makes the source available to readers.
 
-## Further reading
+## Related lesson
 
 - [Lesson 14 - Quotations and citations](../lessons/14-quotations-and-citations.md)
-- [WHATWG HTML Standard - The blockquote element](https://html.spec.whatwg.org/multipage/grouping-content.html#the-blockquote-element)
-- [WHATWG HTML Standard - The q and cite elements](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-q-element)
 
 ## Chapter navigation
 

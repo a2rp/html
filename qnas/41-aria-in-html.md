@@ -376,13 +376,6 @@ Remove `aria-hidden` because the link is meaningful and should be available to a
 
 `<nav>` already supplies navigation semantics and `<button>` already supplies button semantics. Because this button does not control expandable content, `aria-expanded` does not describe its state and should be removed.
 
-## Further reading
-
-- [W3C ARIA Authoring Practices: Read Me First](https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/)
-- [W3C ARIA Authoring Practices: Names and Descriptions](https://www.w3.org/WAI/ARIA/apg/practices/names-and-descriptions/)
-- [W3C ARIA in HTML](https://www.w3.org/TR/html-aria/)
-- [MDN: ARIA techniques](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Guides/Techniques)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

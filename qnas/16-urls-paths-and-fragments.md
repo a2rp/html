@@ -292,13 +292,9 @@ The space is percent-encoded as %20. In practice, file names without spaces can 
 
 The Windows drive path is not a public website URL. The fragment must match the target ID, and useful link text should describe the destination. If the guide is in another folder, adjust the relative path to match the site's actual file structure.
 
-## Further reading
+## Related lesson
 
 - [Lesson 16 - URLs, file paths, and page fragments](../lessons/16-urls-paths-and-fragments.md)
-- [WHATWG URL Standard](https://url.spec.whatwg.org/)
-- [WHATWG HTML Standard - The id attribute](https://html.spec.whatwg.org/multipage/dom.html#the-id-attribute)
-- [WHATWG HTML Standard - Browsing the web](https://html.spec.whatwg.org/multipage/browsing-the-web.html)
-- [WHATWG HTML Standard - Following hyperlinks](https://html.spec.whatwg.org/multipage/links.html)
 
 ## Chapter navigation
 

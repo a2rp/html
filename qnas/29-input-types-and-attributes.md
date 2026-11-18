@@ -320,13 +320,9 @@ range fits approximate selection. The bounds and step describe the available val
 
 **Answer:** Hidden controls are not visible, but their values can still be inspected or changed before submission. The server must not trust client-provided values such as permissions. It must verify access using server-side rules.
 
-## Further reading
+## Related lesson
 
 - [Lesson 29 - Input types and input attributes](../lessons/29-input-types-and-attributes.md)
-- [WHATWG - HTML Standard, The input element](https://html.spec.whatwg.org/multipage/input.html)
-- [MDN - The input element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input)
-- [MDN - Input validation](https://developer.mozilla.org/en-US/docs/Web/Security/Defenses/Input_validation)
-- [MDN - Constraint validation](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation)
 
 ## Chapter navigation
 

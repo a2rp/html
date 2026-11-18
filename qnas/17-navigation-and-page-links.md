@@ -331,12 +331,9 @@ There is no previous page, so the fake link should be removed.
 
 **Answer:** The main site menu and breadcrumb trail are major navigation regions, so nav is suitable for both. A short group of legal links can remain inside the footer without another nav element.
 
-## Further reading
+## Related lesson
 
 - [Lesson 17 - Navigation and linking between pages](../lessons/17-navigation-and-page-links.md)
-- [WHATWG HTML Standard - The nav element](https://html.spec.whatwg.org/multipage/sections.html#the-nav-element)
-- [W3C WAI - Navigation landmarks](https://www.w3.org/WAI/ARIA/apg/patterns/landmarks/examples/navigation.html)
-- [W3C WAI - Breadcrumb pattern](https://www.w3.org/WAI/ARIA/apg/patterns/breadcrumb/)
 
 ## Chapter navigation
 

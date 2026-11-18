@@ -170,15 +170,6 @@ A conforming validator can help find old markup, but it cannot decide the intend
 - Use `iframe` to embed a separate document, not to recreate an old frameset layout.
 - Validate migrated pages and review warnings as well as errors.
 
-## Further reading
-
-- [HTML Standard: Obsolete features](https://html.spec.whatwg.org/multipage/obsolete.html)
-- [MDN: HTML elements reference, obsolete and deprecated elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements#obsolete_and_deprecated_elements)
-- [HTML Standard: The `abbr` element](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-abbr-element)
-- [HTML Standard: The `s` element](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-s-element)
-- [HTML Standard: The `del` and `ins` elements](https://html.spec.whatwg.org/multipage/edits.html#the-del-element)
-- [HTML Standard: The `code` element](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-code-element)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

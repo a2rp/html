@@ -182,13 +182,6 @@ The summary is the disclosure label. The details element contains the answer.
 
 The label's for value matches the control's id. The required attribute asks the browser to check that a value is present before ordinary form submission, but the receiving application must validate it as well.
 
-## Further reading
-
-- [HTML Standard: Tables](https://html.spec.whatwg.org/multipage/tables.html)
-- [HTML Standard: Forms](https://html.spec.whatwg.org/multipage/forms.html)
-- [HTML Standard: The details and summary elements](https://html.spec.whatwg.org/multipage/interactive-elements.html#the-details-element)
-- [Nu Html Checker](https://validator.w3.org/nu/)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

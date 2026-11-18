@@ -191,13 +191,6 @@ Choose an external SVG file in an img element when you want to reuse a graphic f
 - Every MathML expression is wrapped in a math element.
 - MathML elements communicate the structure of an expression, such as a fraction or superscript.
 
-## Further reading
-
-- [MDN - SVG in HTML](https://developer.mozilla.org/en-US/docs/Web/SVG/Guides/SVG_in_HTML)
-- [MDN - SVG viewBox attribute](https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Attribute/viewBox)
-- [W3C - MathML Core](https://www.w3.org/TR/mathml-core/)
-- [WHATWG - HTML Standard, SVG and MathML content](https://html.spec.whatwg.org/multipage/dom.html#embedded-content-2)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

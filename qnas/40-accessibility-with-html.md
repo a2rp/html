@@ -383,15 +383,6 @@ The root language identifies the main document language. A nested `lang` value i
 
 **Answer:** Confirm that links and form controls can be reached in a sensible order, the current focus is visible, links activate their destinations, and buttons and form controls can be operated with their expected keys. Native HTML handles common interactions, but the complete page still needs review.
 
-## Further reading
-
-- [MDN: HTML - A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Accessibility/HTML)
-- [W3C WAI: Images Tutorial](https://www.w3.org/WAI/tutorials/images/)
-- [W3C WAI: Labeling Controls](https://www.w3.org/WAI/tutorials/forms/labels/)
-- [W3C WAI: Tables Tutorial](https://www.w3.org/WAI/tutorials/tables/)
-- [W3C WAI: Page Structure Tutorial](https://www.w3.org/WAI/tutorials/page-structure/)
-- [W3C: Accessible Rich Internet Applications 1.2](https://www.w3.org/TR/wai-aria-1.2/)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

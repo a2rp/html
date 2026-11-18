@@ -167,14 +167,6 @@ Do not use an old summary attribute on table. Use a caption for the table's name
 - Keep tables as simple as the information allows.
 - Do not use the obsolete summary attribute.
 
-## Further reading
-
-- [W3C WAI - Tables Tutorial](https://www.w3.org/WAI/tutorials/tables/)
-- [W3C WAI - Tables with two headers](https://www.w3.org/WAI/tutorials/tables/two-headers/)
-- [W3C WAI - Caption and summary](https://www.w3.org/WAI/tutorials/tables/caption-summary/)
-- [WHATWG - HTML Standard, Tables](https://html.spec.whatwg.org/multipage/tables.html)
-- [MDN - HTML table accessibility](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Table_accessibility)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

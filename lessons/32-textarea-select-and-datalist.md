@@ -261,14 +261,6 @@ A `multiple` select may not look like a standard drop-down. Explain that more th
 - `datalist` supplies suggestions to an editable input and does not enforce a fixed set.
 - Labels identify the controls; `name` gives submitted values their form-data key.
 
-## Further reading
-
-- [MDN: The `textarea` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/textarea)
-- [MDN: The `select` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/select)
-- [MDN: The `option` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/option)
-- [MDN: The `datalist` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/datalist)
-- [WHATWG HTML Standard: Form elements](https://html.spec.whatwg.org/multipage/form-elements.html)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

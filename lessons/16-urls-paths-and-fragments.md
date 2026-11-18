@@ -187,13 +187,6 @@ Assume your page is `https://example.com/courses/html/index.html`.
 - Encode spaces in URLs as `%20`, and write ampersands in HTML attributes as `&amp;`.
 - A local computer file path is not a public website URL.
 
-## Further reading
-
-- [WHATWG URL Standard](https://url.spec.whatwg.org/)
-- [WHATWG HTML Standard - The id attribute](https://html.spec.whatwg.org/multipage/dom.html#the-id-attribute)
-- [WHATWG HTML Standard - Browsing the web](https://html.spec.whatwg.org/multipage/browsing-the-web.html)
-- [WHATWG HTML Standard - Following hyperlinks](https://html.spec.whatwg.org/multipage/links.html)
-
 ## Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

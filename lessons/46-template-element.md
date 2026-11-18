@@ -159,10 +159,3 @@ This declarative form is different from an ordinary reusable template with an `i
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |
 | :--- | --- | --- | ---: |
 | [45 - Popover attributes](45-popover-attributes.md) | [Q&A](../qnas/46-template-element.md) | [Example](../examples/46-template-element.md) | [47 - Hidden, inert, tabindex, and editable content](47-visibility-and-interaction-attributes.md) |
-
-## References
-
-- [HTML Standard: The template element](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
-- [MDN: `<template>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template)
-- [MDN: HTMLTemplateElement.content](https://developer.mozilla.org/en-US/docs/Web/API/HTMLTemplateElement/content)
-- [MDN: Using shadow DOM](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM)

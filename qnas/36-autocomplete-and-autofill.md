@@ -332,12 +332,6 @@ D. `section-*`
 
 **Answer:** No. Some browsers ignore `off` on login fields to support password managers. The form should use the correct `username` and `current-password` hints and work whether autofill is offered or not.
 
-## Further reading
-
-- [MDN: The `autocomplete` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/autocomplete)
-- [MDN: Password form best practices](https://developer.mozilla.org/en-US/docs/Web/Security/Authentication/Passwords)
-- [WHATWG HTML Standard: Autofill field names](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill-field-name)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

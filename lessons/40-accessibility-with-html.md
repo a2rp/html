@@ -347,15 +347,6 @@ Positive values can cause focus to move in a sequence that does not match the do
 - Set the document language with `lang`.
 - Accessibility needs to be considered across the complete page, not only in one element.
 
-## Further reading
-
-- [MDN: HTML - A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Accessibility/HTML)
-- [W3C WAI: Images Tutorial](https://www.w3.org/WAI/tutorials/images/)
-- [W3C WAI: Labeling Controls](https://www.w3.org/WAI/tutorials/forms/labels/)
-- [W3C WAI: Tables Tutorial](https://www.w3.org/WAI/tutorials/tables/)
-- [W3C WAI: Page Structure Tutorial](https://www.w3.org/WAI/tutorials/page-structure/)
-- [W3C: Accessible Rich Internet Applications 1.2](https://www.w3.org/TR/wai-aria-1.2/)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

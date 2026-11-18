@@ -171,13 +171,6 @@ Each element describes a different relationship to the text. The visible styles 
 - **span** is a generic inline container and adds no meaning by itself.
 - Choose HTML elements for meaning and CSS for appearance.
 
-## Further reading
-
-- [HTML Standard: text-level semantics](https://html.spec.whatwg.org/multipage/text-level-semantics.html)
-- [W3C WAI: semantic markup for emphasized or special text](https://www.w3.org/WAI/WCAG21/Techniques/html/H49)
-
----
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

@@ -338,12 +338,6 @@ When this submit button is activated, its name and value can be included with th
 
 The submit button sends the form to `/feedback`. The reset button restores the message field to its initial value, which is empty here.
 
-## Further reading
-
-- [MDN: The `button` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/button)
-- [MDN: The `form` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form)
-- [MDN: Submit buttons](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input/submit)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

@@ -381,17 +381,6 @@ The container and its heading have related but different purposes.
 
 **Answer:** Not if the navigation still provides navigation and the main still contains the unique central content. Keep `<nav>` and `<main>` for their meaning, then use CSS for the side-by-side layout.
 
-## Further reading
-
-- [WHATWG HTML Standard: Sections](https://html.spec.whatwg.org/multipage/sections.html)
-- [MDN: Structuring documents](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents)
-- [MDN: The `header` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/header)
-- [MDN: The `nav` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/nav)
-- [MDN: The `main` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/main)
-- [MDN: The `section` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/section)
-- [MDN: The `article` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/article)
-- [MDN: The `footer` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/footer)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

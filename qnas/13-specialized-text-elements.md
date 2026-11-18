@@ -288,11 +288,9 @@ The datetime value is a valid date, while the element text is natural for reader
 
 Samp describes output, not user input. “Next week” is not a machine-readable date value, so the example uses a valid date in datetime and visible text.
 
-## Further reading
+## Related lesson
 
 - [Lesson 13 - Specialized text elements](../lessons/13-specialized-text-elements.md)
-- [WHATWG HTML Standard - Text-level semantics](https://html.spec.whatwg.org/multipage/text-level-semantics.html)
-- [WHATWG HTML Standard - Dates and times](https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#dates-and-times)
 
 ## Chapter navigation
 

@@ -256,15 +256,6 @@ A name or comment from user data can have a different direction from its surroun
 - Reserve `<bdo>` for deliberate direction overrides.
 - Use HTML language and direction information for meaning, and CSS for visual presentation.
 
-## Further reading
-
-- [HTML Standard: The `lang` attribute](https://html.spec.whatwg.org/dev/dom.html#the-lang-and-xml:lang-attributes)
-- [HTML Standard: The `dir` attribute and bidirectional text](https://html.spec.whatwg.org/multipage/dom.html#the-dir-attribute)
-- [HTML Standard: The `bdi` and `bdo` elements](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-bdi-element)
-- [MDN: The `lang` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/lang)
-- [MDN: The `dir` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/dir)
-- [W3C Internationalization: Declaring language in HTML](https://www.w3.org/International/questions/qa-html-language-declarations.en)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

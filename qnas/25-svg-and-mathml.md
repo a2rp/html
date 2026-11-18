@@ -310,13 +310,9 @@ The mi elements mark variables, and mo elements mark the plus and equals operato
 
 The text outside the SVG provides the chart's important details. The title gives the graphic a concise name.
 
-## Further reading
+## Related lesson
 
 - [Lesson 25 - Inline SVG and MathML in HTML](../lessons/25-svg-and-mathml.md)
-- [MDN - SVG in HTML](https://developer.mozilla.org/en-US/docs/Web/SVG/Guides/SVG_in_HTML)
-- [MDN - SVG viewBox attribute](https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Attribute/viewBox)
-- [W3C - MathML Core](https://www.w3.org/TR/mathml-core/)
-- [WHATWG - HTML Standard, SVG and MathML content](https://html.spec.whatwg.org/multipage/dom.html#embedded-content-2)
 
 ## Chapter navigation
 

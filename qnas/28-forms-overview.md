@@ -260,13 +260,9 @@ Each form now represents one task, with its own destination and controls.
 
 **Answer:** The form may not have a working destination route or service. HTML creates the interface and sends the request, but a server or other endpoint must process and save the data.
 
-## Further reading
+## Related lesson
 
 - [Lesson 28 - Forms: the form element and submission flow](../lessons/28-forms-overview.md)
-- [WHATWG - HTML Standard, Forms](https://html.spec.whatwg.org/multipage/forms.html)
-- [WHATWG - Form submission attributes](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#form-submission-attributes)
-- [MDN - The form element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form)
-- [MDN - Sending form data](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Sending_and_retrieving_form_data)
 
 ## Chapter navigation
 

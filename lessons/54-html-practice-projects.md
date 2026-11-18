@@ -311,13 +311,6 @@ A valid document is a good milestone, not the only measure of quality. Review me
 - A form needs an endpoint if it is expected to process submissions.
 - Validate the document and review how people can understand and use it.
 
-## Further reading
-
-- [HTML Standard: Tables](https://html.spec.whatwg.org/multipage/tables.html)
-- [HTML Standard: Forms](https://html.spec.whatwg.org/multipage/forms.html)
-- [HTML Standard: The details and summary elements](https://html.spec.whatwg.org/multipage/interactive-elements.html#the-details-element)
-- [Nu Html Checker](https://validator.w3.org/nu/)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

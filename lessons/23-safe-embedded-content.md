@@ -166,13 +166,6 @@ HTML attributes reduce some risks, but they do not make an unknown site or user-
 - Use separate origins and server-side protections for untrusted content.
 - Keep a direct link available when an embed cannot be used.
 
-## Further reading
-
-- [WHATWG HTML Standard - The iframe element](https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-iframe-element)
-- [MDN - The iframe element and sandbox tokens](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/iframe)
-- [MDN - General embedding technologies](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/General_embedding_technologies)
-- [MDN - Permissions Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Permissions_Policy)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

@@ -260,13 +260,6 @@ If a checked checkbox should send a specific value, define its `value`. Without 
 - `accept` is a picker hint, not a server security rule.
 - HTML points to the server endpoint; server code must process and validate submitted data.
 
-## Further reading
-
-- [MDN: Sending form data](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Sending_and_retrieving_form_data)
-- [MDN: The `form` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form)
-- [MDN: File input](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input/file)
-- [WHATWG HTML Standard: Form submission](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#form-submission)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

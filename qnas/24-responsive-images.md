@@ -341,13 +341,9 @@ Source does not provide the displayed image's alt text. Put it on img.
 
 The dimensions describe the intrinsic aspect ratio so the browser can reserve space before the image loads.
 
-## Further reading
+## Related lesson
 
 - [Lesson 24 - Responsive images: picture, srcset, and sizes](../lessons/24-responsive-images.md)
-- [WHATWG HTML Standard - Embedded content and picture](https://html.spec.whatwg.org/multipage/embedded-content.html#the-picture-element)
-- [WHATWG HTML Standard - Image candidates and sizes](https://html.spec.whatwg.org/multipage/images.html)
-- [MDN - Using responsive images in HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Responsive_images)
-- [MDN - The picture element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/picture)
 
 ## Chapter navigation
 

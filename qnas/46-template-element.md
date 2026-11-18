@@ -285,13 +285,6 @@ copy.querySelector("p").textContent = profile.description;
 
 **Answer:** The parser creates a shadow root for the `<article>` and places the paragraph in it. Because the mode is `open`, script can read it with `document.querySelector("#profile-card").shadowRoot`.
 
-## Further reading
-
-- [HTML Standard: The template element](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
-- [MDN: `<template>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template)
-- [MDN: HTMLTemplateElement.content](https://developer.mozilla.org/en-US/docs/Web/API/HTMLTemplateElement/content)
-- [MDN: Using shadow DOM](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

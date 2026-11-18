@@ -154,12 +154,6 @@ A regular link is often simpler when visitors can open the page directly. An ifr
 - Srcdoc places a small HTML document in an attribute value.
 - Fallback text is not a reliable description or load-error message for modern browsers.
 
-## Further reading
-
-- [WHATWG HTML Standard - The iframe element](https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-iframe-element)
-- [MDN - The iframe element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/iframe)
-- [W3C WAI - Using the title attribute of the iframe element](https://www.w3.org/WAI/WCAG21/Techniques/html/H64.html)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

@@ -365,12 +365,6 @@ Each option has its own id and label. Both share the `contact-method` name so on
 
 The email field is already explicitly labeled, and the button has descriptive text.
 
-## Further reading
-
-- [W3C WAI: Labeling Controls](https://www.w3.org/WAI/tutorials/forms/labels/)
-- [MDN: The `label` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/label)
-- [MDN: The `placeholder` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/placeholder)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

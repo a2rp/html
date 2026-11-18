@@ -409,13 +409,6 @@ The event handler calls `showModal()`. The form supplies a close control without
 
 **Answer:** Use `show()` to open it as a non-modal dialog. The rest of the page remains interactive. Use `showModal()` only when interaction with the rest of the page should be blocked until the dialog closes.
 
-## Further reading
-
-- [HTML Standard: The `dialog` element](https://html.spec.whatwg.org/multipage/interactive-elements.html#the-dialog-element)
-- [HTML Standard: The `command` and `commandfor` attributes](https://html.spec.whatwg.org/multipage/form-elements.html#the-button-element)
-- [MDN: The `<dialog>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog)
-- [MDN: The `<button>` element and command attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/button)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

@@ -179,11 +179,3 @@ Correct markup does not guarantee a rich search result. Search engines apply the
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |
 | :--- | --- | --- | ---: |
 | [49 - Search and social sharing metadata](49-search-and-social-metadata.md) | [Q&A](../qnas/50-microdata.md) | [Example](../examples/50-microdata.md) | [51 - Safe links and embedded content](51-html-safety.md) |
-
-## References
-
-- [HTML Standard: Microdata](https://html.spec.whatwg.org/multipage/microdata.html)
-- [Schema.org: Book](https://schema.org/Book)
-- [Schema.org: Data model](https://schema.org/docs/datamodel.html)
-- [Google Search Central: Introduction to structured data](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)
-- [Google Search Central: Structured data policies](https://developers.google.com/search/docs/appearance/structured-data/sd-policies)

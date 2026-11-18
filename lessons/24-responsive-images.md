@@ -145,13 +145,6 @@ For different srcset files that all have the same aspect ratio, width and height
 - Put the useful alt text on img.
 - Width and height help the browser reserve the image's aspect ratio.
 
-## Further reading
-
-- [WHATWG HTML Standard - Embedded content and picture](https://html.spec.whatwg.org/multipage/embedded-content.html#the-picture-element)
-- [WHATWG HTML Standard - Image candidates and sizes](https://html.spec.whatwg.org/multipage/images.html)
-- [MDN - Using responsive images in HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Responsive_images)
-- [MDN - The picture element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/picture)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |

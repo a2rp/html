@@ -408,12 +408,6 @@ The checkboxes are independently selectable. The legend describes what the prefe
 </form>
 ~~~
 
-## Further reading
-
-- [W3C WAI: Grouping Controls](https://www.w3.org/WAI/tutorials/forms/grouping/)
-- [MDN: The `fieldset` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fieldset)
-- [WHATWG HTML Standard: The `fieldset` element](https://html.spec.whatwg.org/multipage/form-elements.html#the-fieldset-element)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |

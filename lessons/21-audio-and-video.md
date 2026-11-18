@@ -176,15 +176,6 @@ Boolean attributes such as controls, muted, and loop are enabled by their presen
 - A nearby transcript makes media information available in a readable form.
 - Check captions for accuracy and avoid unexpected autoplay.
 
-## Further reading
-
-- [WHATWG HTML Standard - Audio and video](https://html.spec.whatwg.org/multipage/media.html)
-- [WHATWG HTML Standard - The source element](https://html.spec.whatwg.org/multipage/embedded-content.html#the-source-element)
-- [WHATWG HTML Standard - The track element](https://html.spec.whatwg.org/multipage/media.html#the-track-element)
-- [W3C WAI - Planning audio and video media](https://www.w3.org/WAI/media/av/planning/)
-- [W3C WAI - Transcripts](https://www.w3.org/WAI/media/av/transcripts/)
-- [W3C WAI - Video captions](https://www.w3.org/WAI/perspective-videos/captions/)
-
 ### Chapter navigation
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |
