@@ -309,6 +309,6 @@ The first and third navigate to resources or handlers, so they are links. Submit
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [14 - Quotations and citations](14-quotations-and-citations.md) | [16 - URLs, file paths, and page fragments](16-urls-paths-and-fragments.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [14 - Quotations and citations](14-quotations-and-citations.md) | [Lesson](../lessons/15-links.md) | [Example](../examples/15-links.md) | [16 - URLs, file paths, and page fragments](16-urls-paths-and-fragments.md) |
