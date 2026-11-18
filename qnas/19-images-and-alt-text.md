@@ -309,6 +309,6 @@ The icon is functional, so alt describes the link's destination rather than its 
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [18 - Unordered, ordered, and description lists](18-lists.md) | [20 - Figures and captions](20-figures-and-captions.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [18 - Unordered, ordered, and description lists](18-lists.md) | [Lesson](../lessons/19-images-and-alt-text.md) | [Example](../examples/19-images-and-alt-text.md) | [20 - Figures and captions](20-figures-and-captions.md) |
