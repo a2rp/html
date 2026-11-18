@@ -164,3 +164,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 27 - Table headings, captions, and accessible structure](../lessons/27-accessible-tables.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [26 - HTML tables: rows, columns, and cells](26-html-tables.md) | [Lesson](../lessons/27-accessible-tables.md) | [Q&A](../qnas/27-accessible-tables.md) | [28 - Forms: the form element and submission flow](28-forms-overview.md) |
