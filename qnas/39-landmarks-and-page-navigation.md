@@ -379,6 +379,6 @@ Descriptive link text remains understandable when a person reviews links out of 
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [38 - Header, navigation, main, section, article, and footer](38-page-structure-elements.md) | [40 - Accessibility with native HTML](40-accessibility-with-html.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [38 - Header, navigation, main, section, article, and footer](38-page-structure-elements.md) | [Lesson](../lessons/39-landmarks-and-page-navigation.md) | [Example](../examples/39-landmarks-and-page-navigation.md) | [40 - Accessibility with native HTML](40-accessibility-with-html.md) |
