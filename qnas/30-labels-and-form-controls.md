@@ -6,9 +6,12 @@ Use these questions to review [Chapter 30 - Labels and accessible form controls]
 
 ### 1. How does an explicit label connect to a form control?
 
-A. The label's `for` value matches the control's `id
-B. The label's `name` matches the control's `name
-C. The label's `value` matches the control's `value
+A. The label's `for` value matches the control's `id`
+
+B. The label's `name` matches the control's `name`
+
+C. The label's `value` matches the control's `value`
+
 D. The label appears before the control in the source
 
 **Answer: A.** The `for` attribute identifies the control by its `id`. The values must match exactly.
@@ -19,18 +22,24 @@ D. The label appears before the control in the source
 <input id="email" name="email" type="email">
 ~~~
 
-A. `<label name="email">Email address</label>
-B. `<label for="email">Email address</label>
-C. `<label value="email">Email address</label>
-D. `<label id="email">Email address</label>
+A. `<label name="email">Email address</label>`
+
+B. `<label for="email">Email address</label>`
+
+C. `<label value="email">Email address</label>`
+
+D. `<label id="email">Email address</label>`
 
 **Answer: B.** The label's `for="email"` matches the input's `id="email"`.
 
 ### 3. What is the main purpose of a form control's `name` attribute?
 
 A. It connects the control to a label
+
 B. It gives the control a visible caption
+
 C. It supplies the control's key in submitted form data
+
 D. It makes the control required
 
 **Answer: C.** A label describes the control to users. The `name` is used as the field name when form data is submitted.
@@ -38,44 +47,59 @@ D. It makes the control required
 ### 4. What is wrong with using only a placeholder as the field prompt?
 
 A. A placeholder changes the input type
+
 B. Placeholder text disappears when a value is entered and is not a persistent label
+
 C. A placeholder prevents form submission
+
 D. Placeholder text always appears outside the field
 
 **Answer: B.** A placeholder can be a short hint, but a visible label should identify the field and remain available while the user enters a value.
 
 ### 5. Which is a valid implicit label?
 
-A. `<label for="city">City</label><input name="city">
-B. `<label>City <input name="city"></label>
-C. `<label name="city">City</label><input id="city">
-D. `<label>City</label><select name="city"></select>
+A. `<label for="city">City</label><input name="city">`
+
+B. `<label>City <input name="city"></label>`
+
+C. `<label name="city">City</label><input id="city">`
+
+D. `<label>City</label><select name="city"></select>`
 
 **Answer: B.** The control is nested inside its label, so the association is implicit. An explicit label is often easier to maintain in larger forms.
 
 ### 6. A radio group has three choices. What should each choice have?
 
-A. Its own label and unique `id`; the choices can share a `name
-B. Its own `name` and the same `id
+A. Its own label and unique `id`; the choices can share a `name`
+
+B. Its own `name` and the same `id`
+
 C. One label for all three controls
+
 D. A placeholder instead of a label
 
 **Answer: A.** Each label describes one option. A shared `name` lets the browser treat the radio buttons as one choice group, while unique ids allow each label to point to its own control.
 
 ### 7. Which element normally gets its accessible name from its own text content?
 
-A. `<input type="text">
-B. `<select>
-C. `<textarea>
-D. `<button>
+A. `<input type="text">`
+
+B. `<select>`
+
+C. `<textarea>`
+
+D. `<button>`
 
 **Answer: D.** Text inside a button names its action, such as `<button type="submit">Send message</button>`. The other controls need labels that identify what they are for.
 
 ### 8. What does clicking an associated label do for a checkbox?
 
-A. It changes the checkbox's `name
+A. It changes the checkbox's `name`
+
 B. It focuses or activates the checkbox
+
 C. It submits the form automatically
+
 D. It creates another checkbox
 
 **Answer: B.** The label makes its associated control easier to activate, including by clicking or tapping the label text.
@@ -83,18 +107,24 @@ D. It creates another checkbox
 ### 9. Which value should be unique among elements in the same document?
 
 A. The text of every label
+
 B. The `id` of each control
+
 C. The `name` of every radio option
+
 D. The `value` of each checkbox
 
 **Answer: B.** An `id` identifies one element in the document. Radio choices often intentionally share a `name`.
 
 ### 10. Which element is not labelable using a `label` element?
 
-A. `<textarea>
-B. `<select>
-C. `<input type="hidden">
-D. `<input type="checkbox">
+A. `<textarea>`
+
+B. `<select>`
+
+C. `<input type="hidden">`
+
+D. `<input type="checkbox">`
 
 **Answer: C.** Hidden inputs are not labelable controls. Text areas, select menus, and checkboxes can all have labels.
 
