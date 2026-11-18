@@ -160,3 +160,9 @@ This Markdown file displays the code and does not run it. The editable text is o
 ## Related lesson
 
 [Read lesson 47 - Hidden, inert, tabindex, and editable content](../lessons/47-visibility-and-interaction-attributes.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [46 - Template elements](46-template-element.md) | [Lesson](../lessons/47-visibility-and-interaction-attributes.md) | [Q&A](../qnas/47-visibility-and-interaction-attributes.md) | [48 - Favicons and document icons](48-favicons-and-icons.md) |
