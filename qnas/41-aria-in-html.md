@@ -385,6 +385,6 @@ Remove `aria-hidden` because the link is meaningful and should be available to a
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [40 - Accessibility with native HTML](40-accessibility-with-html.md) | [42 - Language, text direction, and international content](42-language-and-text-direction.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [40 - Accessibility with native HTML](40-accessibility-with-html.md) | [Lesson](../lessons/41-aria-in-html.md) | [Example](../examples/41-aria-in-html.md) | [42 - Language, text direction, and international content](42-language-and-text-direction.md) |
