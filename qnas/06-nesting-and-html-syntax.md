@@ -296,6 +296,6 @@ Practice questions for [Lesson 06 - Nesting, void elements, and HTML syntax](../
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [05 - Elements, tags, and attributes](05-elements-tags-and-attributes.md) | [07 - Global attributes](07-global-attributes.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [05 - Elements, tags, and attributes](05-elements-tags-and-attributes.md) | [Lesson](../lessons/06-nesting-and-html-syntax.md) | [Example](../examples/06-nesting-and-html-syntax.md) | [07 - Global attributes](07-global-attributes.md) |
