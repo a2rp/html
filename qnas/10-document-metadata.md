@@ -264,6 +264,6 @@ Practice questions for [Lesson 10 - Metadata: charset, viewport, and description
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [09 - The head element and page title](09-head-and-title.md) | [11 - Headings and paragraphs](11-headings-and-paragraphs.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [09 - The head element and page title](09-head-and-title.md) | [Lesson](../lessons/10-document-metadata.md) | [Example](../examples/10-document-metadata.md) | [11 - Headings and paragraphs](11-headings-and-paragraphs.md) |
