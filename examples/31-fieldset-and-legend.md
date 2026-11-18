@@ -148,3 +148,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 31 - Fieldset and legend](../lessons/31-fieldset-and-legend.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [30 - Labels and accessible form controls](30-labels-and-form-controls.md) | [Lesson](../lessons/31-fieldset-and-legend.md) | [Q&A](../qnas/31-fieldset-and-legend.md) | [32 - Textarea, select, option, and datalist](32-textarea-select-and-datalist.md) |
