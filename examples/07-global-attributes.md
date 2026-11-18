@@ -74,3 +74,9 @@ Copy the HTML code block using its copy button, save it as `global-attributes-pr
 ## Related lesson
 
 [Read lesson 07 - Global attributes](../lessons/07-global-attributes.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [06 - Nesting, void elements, and HTML syntax](06-nesting-and-html-syntax.md) | [Lesson](../lessons/07-global-attributes.md) | [Q&A](../qnas/07-global-attributes.md) | [08 - Comments, character references, and special characters](08-comments-and-character-references.md) |
