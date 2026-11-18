@@ -224,3 +224,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 29 - Input types and input attributes](../lessons/29-input-types-and-attributes.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [28 - Forms: the form element and submission flow](28-forms-overview.md) | [Lesson](../lessons/29-input-types-and-attributes.md) | [Q&A](../qnas/29-input-types-and-attributes.md) | [30 - Labels and accessible form controls](30-labels-and-form-controls.md) |
