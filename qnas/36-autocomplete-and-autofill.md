@@ -340,6 +340,6 @@ D. `section-*`
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [35 - Form submission: name, method, action, and enctype](35-form-submission.md) | [37 - Semantic HTML and page structure](37-semantic-html.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [35 - Form submission: name, method, action, and enctype](35-form-submission.md) | [Lesson](../lessons/36-autocomplete-and-autofill.md) | [Example](../examples/36-autocomplete-and-autofill.md) | [37 - Semantic HTML and page structure](37-semantic-html.md) |
