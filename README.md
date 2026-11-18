@@ -65,8 +65,6 @@ These are my personal learning notes, shaped by what I’ve studied and practice
 | 53 | [Validate and debug HTML](lessons/53-validation-and-debugging.md) |[Open QnA](qnas/53-validation-and-debugging.md) | [Open Example](examples/53-validation-and-debugging.md) |
 | 54 | [HTML-only practice pages](lessons/54-html-practice-projects.md) |[Open QnA](qnas/54-html-practice-projects.md) | [Open Example](examples/54-html-practice-projects.md) |
 | 55 | [HTML quick reference and glossary](lessons/55-html-reference-and-glossary.md) |[Open QnA](qnas/55-html-reference-and-glossary.md) | [Open Example](examples/55-html-reference-and-glossary.md) |
-| 56 | [The base element and relative URLs](lessons/56-base-element-and-relative-urls.md) | [Open QnA](qnas/56-base-element-and-relative-urls.md) | [Open Example](examples/56-base-element-and-relative-urls.md) |
-| 57 | [Image maps with map and area](lessons/57-image-maps-with-map-and-area.md) | [Open QnA](qnas/57-image-maps-with-map-and-area.md) | [Open Example](examples/57-image-maps-with-map-and-area.md) |
 
 ## My Links
 
