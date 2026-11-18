@@ -104,3 +104,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 18 - Unordered, ordered, and description lists](../lessons/18-lists.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [17 - Navigation and linking between pages](17-navigation-and-page-links.md) | [Lesson](../lessons/18-lists.md) | [Q&A](../qnas/18-lists.md) | [19 - Images and alternative text](19-images-and-alt-text.md) |
