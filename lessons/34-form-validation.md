@@ -245,6 +245,6 @@ Only mark information required when the form truly needs it. Extra required fiel
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [33 - Buttons and form actions](33-buttons-and-form-actions.md) | [35 - Form submission: name, method, action, and enctype](35-form-submission.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [33 - Buttons and form actions](33-buttons-and-form-actions.md) | [Q&A](../qnas/34-form-validation.md) | [Example](../examples/34-form-validation.md) | [35 - Form submission: name, method, action, and enctype](35-form-submission.md) |

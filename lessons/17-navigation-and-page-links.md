@@ -180,6 +180,6 @@ The page uses separate navigation regions for the main site links, breadcrumb tr
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [16 - URLs, file paths, and page fragments](16-urls-paths-and-fragments.md) | [18 - Unordered, ordered, and description lists](18-lists.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [16 - URLs, file paths, and page fragments](16-urls-paths-and-fragments.md) | [Q&A](../qnas/17-navigation-and-page-links.md) | [Example](../examples/17-navigation-and-page-links.md) | [18 - Unordered, ordered, and description lists](18-lists.md) |

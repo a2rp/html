@@ -179,6 +179,6 @@ The document title names the page outside its content. The **h1** introduces the
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [10 - Metadata: charset, viewport, and description](10-document-metadata.md) | [12 - Text semantics: emphasis, importance, and meaning](12-text-semantics.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [10 - Metadata: charset, viewport, and description](10-document-metadata.md) | [Q&A](../qnas/11-headings-and-paragraphs.md) | [Example](../examples/11-headings-and-paragraphs.md) | [12 - Text semantics: emphasis, importance, and meaning](12-text-semantics.md) |

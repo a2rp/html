@@ -181,6 +181,6 @@ A conforming validator can help find old markup, but it cannot decide the intend
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [51 - Safe links and embedded content](51-html-safety.md) | [53 - Validate and debug HTML](53-validation-and-debugging.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [51 - Safe links and embedded content](51-html-safety.md) | [Q&A](../qnas/52-obsolete-html.md) | [Example](../examples/52-obsolete-html.md) | [53 - Validate and debug HTML](53-validation-and-debugging.md) |

@@ -267,6 +267,6 @@ A name or comment from user data can have a different direction from its surroun
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [41 - ARIA in HTML: when and how to use it](41-aria-in-html.md) | [43 - Details and summary](43-details-and-summary.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [41 - ARIA in HTML: when and how to use it](41-aria-in-html.md) | [Q&A](../qnas/42-language-and-text-direction.md) | [Example](../examples/42-language-and-text-direction.md) | [43 - Details and summary](43-details-and-summary.md) |

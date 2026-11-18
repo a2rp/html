@@ -153,6 +153,6 @@ The **charset** declaration tells software how to decode the document. The viewp
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [09 - The head element and page title](09-head-and-title.md) | [11 - Headings and paragraphs](11-headings-and-paragraphs.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [09 - The head element and page title](09-head-and-title.md) | [Q&A](../qnas/10-document-metadata.md) | [Example](../examples/10-document-metadata.md) | [11 - Headings and paragraphs](11-headings-and-paragraphs.md) |

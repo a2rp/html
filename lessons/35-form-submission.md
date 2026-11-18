@@ -269,6 +269,6 @@ If a checked checkbox should send a specific value, define its `value`. Without 
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [34 - Built-in form validation](34-form-validation.md) | [36 - Autocomplete and autofill](36-autocomplete-and-autofill.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [34 - Built-in form validation](34-form-validation.md) | [Q&A](../qnas/35-form-submission.md) | [Example](../examples/35-form-submission.md) | [36 - Autocomplete and autofill](36-autocomplete-and-autofill.md) |

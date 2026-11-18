@@ -176,9 +176,9 @@ Correct markup does not guarantee a rich search result. Search engines apply the
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [49 - Search and social sharing metadata](49-search-and-social-metadata.md) | [51 - Safe links and embedded content](51-html-safety.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [49 - Search and social sharing metadata](49-search-and-social-metadata.md) | [Q&A](../qnas/50-microdata.md) | [Example](../examples/50-microdata.md) | [51 - Safe links and embedded content](51-html-safety.md) |
 
 ## References
 

@@ -279,6 +279,6 @@ The `id` identifies this article, and `class` gives it reusable labels. The summ
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [06 - Nesting, void elements, and HTML syntax](06-nesting-and-html-syntax.md) | [08 - Comments, character references, and special characters](08-comments-and-character-references.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [06 - Nesting, void elements, and HTML syntax](06-nesting-and-html-syntax.md) | [Q&A](../qnas/07-global-attributes.md) | [Example](../examples/07-global-attributes.md) | [08 - Comments, character references, and special characters](08-comments-and-character-references.md) |

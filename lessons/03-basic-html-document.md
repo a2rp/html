@@ -211,6 +211,6 @@ Create a file named `about-me.html` and start with the complete document example
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [02 - How HTML fits into a web page](02-html-css-and-javascript.md) | [04 - Doctype and browser rendering modes](04-doctype-and-rendering-modes.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [02 - How HTML fits into a web page](02-html-css-and-javascript.md) | [Q&A](../qnas/03-basic-html-document.md) | [Example](../examples/03-basic-html-document.md) | [04 - Doctype and browser rendering modes](04-doctype-and-rendering-modes.md) |

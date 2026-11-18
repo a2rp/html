@@ -272,6 +272,6 @@ This fieldset is still disabled because `disabled` is a Boolean attribute. Remov
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [30 - Labels and accessible form controls](30-labels-and-form-controls.md) | [32 - Textarea, select, option, and datalist](32-textarea-select-and-datalist.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [30 - Labels and accessible form controls](30-labels-and-form-controls.md) | [Q&A](../qnas/31-fieldset-and-legend.md) | [Example](../examples/31-fieldset-and-legend.md) | [32 - Textarea, select, option, and datalist](32-textarea-select-and-datalist.md) |

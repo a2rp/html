@@ -174,6 +174,6 @@ Each anchor has an `href` and link text that identifies what following it will d
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [14 - Quotations and citations](14-quotations-and-citations.md) | [16 - URLs, file paths, and page fragments](16-urls-paths-and-fragments.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [14 - Quotations and citations](14-quotations-and-citations.md) | [Q&A](../qnas/15-links.md) | [Example](../examples/15-links.md) | [16 - URLs, file paths, and page fragments](16-urls-paths-and-fragments.md) |

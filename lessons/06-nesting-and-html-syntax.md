@@ -257,6 +257,6 @@ The `main` element contains the heading, paragraph, horizontal rule, list, and i
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [05 - Elements, tags, and attributes](05-elements-tags-and-attributes.md) | [07 - Global attributes](07-global-attributes.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [05 - Elements, tags, and attributes](05-elements-tags-and-attributes.md) | [Q&A](../qnas/06-nesting-and-html-syntax.md) | [Example](../examples/06-nesting-and-html-syntax.md) | [07 - Global attributes](07-global-attributes.md) |

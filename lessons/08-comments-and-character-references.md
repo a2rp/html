@@ -240,6 +240,6 @@ The comment is in the source but is not displayed as page text. The first paragr
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [07 - Global attributes](07-global-attributes.md) | [09 - The head element and page title](09-head-and-title.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [07 - Global attributes](07-global-attributes.md) | [Q&A](../qnas/08-comments-and-character-references.md) | [Example](../examples/08-comments-and-character-references.md) | [09 - The head element and page title](09-head-and-title.md) |

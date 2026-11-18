@@ -132,9 +132,9 @@ A page may contain a `keywords` metadata field, but Google Search does not use `
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [48 - Favicons and document icons](48-favicons-and-icons.md) | [50 - Microdata and structured information](50-microdata.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [48 - Favicons and document icons](48-favicons-and-icons.md) | [Q&A](../qnas/49-search-and-social-metadata.md) | [Example](../examples/49-search-and-social-metadata.md) | [50 - Microdata and structured information](50-microdata.md) |
 
 ## References
 

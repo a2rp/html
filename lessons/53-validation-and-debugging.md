@@ -185,6 +185,6 @@ Automated checkers are useful, but they cannot replace human review of meaning a
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [52 - Deprecated elements and obsolete HTML](52-obsolete-html.md) | [54 - HTML-only practice pages](54-html-practice-projects.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [52 - Deprecated elements and obsolete HTML](52-obsolete-html.md) | [Q&A](../qnas/53-validation-and-debugging.md) | [Example](../examples/53-validation-and-debugging.md) | [54 - HTML-only practice pages](54-html-practice-projects.md) |

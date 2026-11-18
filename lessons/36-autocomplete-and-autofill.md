@@ -293,6 +293,6 @@ Autocomplete is a hint, not a command that forces autofill. The browser may have
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [35 - Form submission: name, method, action, and enctype](35-form-submission.md) | [37 - Semantic HTML and page structure](37-semantic-html.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [35 - Form submission: name, method, action, and enctype](35-form-submission.md) | [Q&A](../qnas/36-autocomplete-and-autofill.md) | [Example](../examples/36-autocomplete-and-autofill.md) | [37 - Semantic HTML and page structure](37-semantic-html.md) |

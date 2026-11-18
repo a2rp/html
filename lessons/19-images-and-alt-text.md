@@ -153,6 +153,6 @@ Avoid filler such as “image of” or the file name unless those words add usef
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [18 - Unordered, ordered, and description lists](18-lists.md) | [20 - Figures and captions](20-figures-and-captions.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [18 - Unordered, ordered, and description lists](18-lists.md) | [Q&A](../qnas/19-images-and-alt-text.md) | [Example](../examples/19-images-and-alt-text.md) | [20 - Figures and captions](20-figures-and-captions.md) |

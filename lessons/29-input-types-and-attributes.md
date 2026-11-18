@@ -271,6 +271,6 @@ Use disabled when the control is unavailable. Use readonly when users should be 
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [28 - Forms: the form element and submission flow](28-forms-overview.md) | [30 - Labels and accessible form controls](30-labels-and-form-controls.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [28 - Forms: the form element and submission flow](28-forms-overview.md) | [Q&A](../qnas/29-input-types-and-attributes.md) | [Example](../examples/29-input-types-and-attributes.md) | [30 - Labels and accessible form controls](30-labels-and-form-controls.md) |

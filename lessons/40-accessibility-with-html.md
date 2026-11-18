@@ -358,6 +358,6 @@ Positive values can cause focus to move in a sequence that does not match the do
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [39 - Landmarks, headings, and accessible page navigation](39-landmarks-and-page-navigation.md) | [41 - ARIA in HTML: when and how to use it](41-aria-in-html.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [39 - Landmarks, headings, and accessible page navigation](39-landmarks-and-page-navigation.md) | [Q&A](../qnas/40-accessibility-with-html.md) | [Example](../examples/40-accessibility-with-html.md) | [41 - ARIA in HTML: when and how to use it](41-aria-in-html.md) |

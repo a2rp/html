@@ -266,6 +266,6 @@ Do not make required instructions available only after someone opens an item if 
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [42 - Language, text direction, and international content](42-language-and-text-direction.md) | [44 - Dialog elements](44-dialog-element.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [42 - Language, text direction, and international content](42-language-and-text-direction.md) | [Q&A](../qnas/43-details-and-summary.md) | [Example](../examples/43-details-and-summary.md) | [44 - Dialog elements](44-dialog-element.md) |

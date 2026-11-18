@@ -302,6 +302,6 @@ Use a native control that matches the interaction. For example, details is a dis
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [54 - HTML-only practice pages](54-html-practice-projects.md) |  |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [54 - HTML-only practice pages](54-html-practice-projects.md) | [Q&A](../qnas/55-html-reference-and-glossary.md) | [Example](../examples/55-html-reference-and-glossary.md) |  |

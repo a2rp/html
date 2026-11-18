@@ -246,6 +246,6 @@ The browser uses these elements and attributes to understand the document. Their
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [04 - Doctype and browser rendering modes](04-doctype-and-rendering-modes.md) | [06 - Nesting, void elements, and HTML syntax](06-nesting-and-html-syntax.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [04 - Doctype and browser rendering modes](04-doctype-and-rendering-modes.md) | [Q&A](../qnas/05-elements-tags-and-attributes.md) | [Example](../examples/05-elements-tags-and-attributes.md) | [06 - Nesting, void elements, and HTML syntax](06-nesting-and-html-syntax.md) |

@@ -316,6 +316,6 @@ Changing the attribute directly does not perform all the dialog closing steps. U
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [43 - Details and summary](43-details-and-summary.md) | [45 - Popover attributes](45-popover-attributes.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [43 - Details and summary](43-details-and-summary.md) | [Q&A](../qnas/44-dialog-element.md) | [Example](../examples/44-dialog-element.md) | [45 - Popover attributes](45-popover-attributes.md) |

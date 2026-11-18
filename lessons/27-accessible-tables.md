@@ -177,6 +177,6 @@ Do not use an old summary attribute on table. Use a caption for the table's name
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [26 - HTML tables: rows, columns, and cells](26-html-tables.md) | [28 - Forms: the form element and submission flow](28-forms-overview.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [26 - HTML tables: rows, columns, and cells](26-html-tables.md) | [Q&A](../qnas/27-accessible-tables.md) | [Example](../examples/27-accessible-tables.md) | [28 - Forms: the form element and submission flow](28-forms-overview.md) |

@@ -187,6 +187,6 @@ Boolean attributes such as controls, muted, and loop are enabled by their presen
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [20 - Figures and captions](20-figures-and-captions.md) | [22 - The iframe element and embedded pages](22-iframes-and-embedded-pages.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [20 - Figures and captions](20-figures-and-captions.md) | [Q&A](../qnas/21-audio-and-video.md) | [Example](../examples/21-audio-and-video.md) | [22 - The iframe element and embedded pages](22-iframes-and-embedded-pages.md) |

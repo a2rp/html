@@ -200,6 +200,6 @@ Choose an external SVG file in an img element when you want to reuse a graphic f
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [24 - Responsive images: picture, srcset, and sizes](24-responsive-images.md) | [26 - HTML tables: rows, columns, and cells](26-html-tables.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [24 - Responsive images: picture, srcset, and sizes](24-responsive-images.md) | [Q&A](../qnas/25-svg-and-mathml.md) | [Example](../examples/25-svg-and-mathml.md) | [26 - HTML tables: rows, columns, and cells](26-html-tables.md) |

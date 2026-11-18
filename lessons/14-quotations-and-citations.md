@@ -150,6 +150,6 @@ The example URL uses the reserved example.com domain. Replace it with the real s
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [13 - Code, abbreviations, dates, and machine-readable text](13-specialized-text-elements.md) | [15 - Links and the anchor element](15-links.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [13 - Code, abbreviations, dates, and machine-readable text](13-specialized-text-elements.md) | [Q&A](../qnas/14-quotations-and-citations.md) | [Example](../examples/14-quotations-and-citations.md) | [15 - Links and the anchor element](15-links.md) |

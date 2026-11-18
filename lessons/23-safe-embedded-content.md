@@ -175,6 +175,6 @@ HTML attributes reduce some risks, but they do not make an unknown site or user-
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [22 - The iframe element and embedded pages](22-iframes-and-embedded-pages.md) | [24 - Responsive images: picture, srcset, and sizes](24-responsive-images.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [22 - The iframe element and embedded pages](22-iframes-and-embedded-pages.md) | [Q&A](../qnas/23-safe-embedded-content.md) | [Example](../examples/23-safe-embedded-content.md) | [24 - Responsive images: picture, srcset, and sizes](24-responsive-images.md) |

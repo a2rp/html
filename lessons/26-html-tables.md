@@ -183,6 +183,6 @@ Before adding a span, sketch the rows and columns or count the positions. This h
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [25 - Inline SVG and MathML in HTML](25-svg-and-mathml.md) | [27 - Table headings, captions, and accessible structure](27-accessible-tables.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [25 - Inline SVG and MathML in HTML](25-svg-and-mathml.md) | [Q&A](../qnas/26-html-tables.md) | [Example](../examples/26-html-tables.md) | [27 - Table headings, captions, and accessible structure](27-accessible-tables.md) |

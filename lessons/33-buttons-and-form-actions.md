@@ -263,6 +263,6 @@ If buttons perform different actions, give them distinct text, such as “Save d
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [32 - Textarea, select, option, and datalist](32-textarea-select-and-datalist.md) | [34 - Built-in form validation](34-form-validation.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [32 - Textarea, select, option, and datalist](32-textarea-select-and-datalist.md) | [Q&A](../qnas/33-buttons-and-form-actions.md) | [Example](../examples/33-buttons-and-form-actions.md) | [34 - Built-in form validation](34-form-validation.md) |

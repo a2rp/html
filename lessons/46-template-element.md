@@ -156,9 +156,9 @@ This declarative form is different from an ordinary reusable template with an `i
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [45 - Popover attributes](45-popover-attributes.md) | [47 - Hidden, inert, tabindex, and editable content](47-visibility-and-interaction-attributes.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [45 - Popover attributes](45-popover-attributes.md) | [Q&A](../qnas/46-template-element.md) | [Example](../examples/46-template-element.md) | [47 - Hidden, inert, tabindex, and editable content](47-visibility-and-interaction-attributes.md) |
 
 ## References
 

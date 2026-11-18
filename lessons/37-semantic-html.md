@@ -216,6 +216,6 @@ Extra ARIA does not make incorrect HTML correct. First choose the right native e
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [36 - Autocomplete and autofill](36-autocomplete-and-autofill.md) | [38 - Header, navigation, main, section, article, and footer](38-page-structure-elements.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [36 - Autocomplete and autofill](36-autocomplete-and-autofill.md) | [Q&A](../qnas/37-semantic-html.md) | [Example](../examples/37-semantic-html.md) | [38 - Header, navigation, main, section, article, and footer](38-page-structure-elements.md) |

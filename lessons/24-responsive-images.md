@@ -154,6 +154,6 @@ For different srcset files that all have the same aspect ratio, width and height
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [23 - Embedding external content safely](23-safe-embedded-content.md) | [25 - Inline SVG and MathML in HTML](25-svg-and-mathml.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [23 - Embedding external content safely](23-safe-embedded-content.md) | [Q&A](../qnas/24-responsive-images.md) | [Example](../examples/24-responsive-images.md) | [25 - Inline SVG and MathML in HTML](25-svg-and-mathml.md) |

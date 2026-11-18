@@ -271,6 +271,6 @@ A `multiple` select may not look like a standard drop-down. Explain that more th
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [31 - Fieldset and legend](31-fieldset-and-legend.md) | [33 - Buttons and form actions](33-buttons-and-form-actions.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [31 - Fieldset and legend](31-fieldset-and-legend.md) | [Q&A](../qnas/32-textarea-select-and-datalist.md) | [Example](../examples/32-textarea-select-and-datalist.md) | [33 - Buttons and form actions](33-buttons-and-form-actions.md) |

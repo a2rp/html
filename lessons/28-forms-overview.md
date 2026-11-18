@@ -143,6 +143,6 @@ The example uses /feedback as a placeholder route. If the website has no server 
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [27 - Table headings, captions, and accessible structure](27-accessible-tables.md) | [29 - Input types and input attributes](29-input-types-and-attributes.md) |
+| Previous chapter | Chapter Q&A | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [27 - Table headings, captions, and accessible structure](27-accessible-tables.md) | [Q&A](../qnas/28-forms-overview.md) | [Example](../examples/28-forms-overview.md) | [29 - Input types and input attributes](29-input-types-and-attributes.md) |
