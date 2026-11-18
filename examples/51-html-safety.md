@@ -127,3 +127,9 @@ This button communicates the action semantically, but it will not perform a cust
 ## Related lesson
 
 [Read lesson 51 - Safe links and embedded content](../lessons/51-html-safety.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [50 - Microdata and structured information](50-microdata.md) | [Lesson](../lessons/51-html-safety.md) | [Q&A](../qnas/51-html-safety.md) | [52 - Deprecated elements and obsolete HTML](52-obsolete-html.md) |
