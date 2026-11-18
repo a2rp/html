@@ -358,6 +358,6 @@ Boolean attributes are enabled when present. Remove muted instead of setting it 
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [20 - Figures and captions](20-figures-and-captions.md) | [22 - The iframe element and embedded pages](22-iframes-and-embedded-pages.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [20 - Figures and captions](20-figures-and-captions.md) | [Lesson](../lessons/21-audio-and-video.md) | [Example](../examples/21-audio-and-video.md) | [22 - The iframe element and embedded pages](22-iframes-and-embedded-pages.md) |
