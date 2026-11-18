@@ -125,3 +125,9 @@ Copy the code block with its copy button, save it as `index.html`, and open the 
 ## Related lesson
 
 [Read lesson 02 - How HTML fits into a web page](../lessons/02-html-css-and-javascript.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [01 - Introduction to HTML](01-introduction-to-html.md) | [Lesson](../lessons/02-html-css-and-javascript.md) | [Q&A](../qnas/02-html-css-and-javascript.md) | [03 - The basic HTML document](03-basic-html-document.md) |
