@@ -94,3 +94,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 13 - Code, abbreviations, dates, and machine-readable text](../lessons/13-specialized-text-elements.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [12 - Text semantics: emphasis, importance, and meaning](12-text-semantics.md) | [Lesson](../lessons/13-specialized-text-elements.md) | [Q&A](../qnas/13-specialized-text-elements.md) | [14 - Quotations and citations](14-quotations-and-citations.md) |
