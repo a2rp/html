@@ -260,3 +260,9 @@ The example account and verification addresses do not have server handlers in th
 ## Related lesson
 
 [Read lesson 36 - Autocomplete and autofill](../lessons/36-autocomplete-and-autofill.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [35 - Form submission: name, method, action, and enctype](35-form-submission.md) | [Lesson](../lessons/36-autocomplete-and-autofill.md) | [Q&A](../qnas/36-autocomplete-and-autofill.md) | [37 - Semantic HTML and page structure](37-semantic-html.md) |
