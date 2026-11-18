@@ -351,6 +351,6 @@ The dimensions describe the intrinsic aspect ratio so the browser can reserve sp
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [23 - Embedding external content safely](23-safe-embedded-content.md) | [25 - Inline SVG and MathML in HTML](25-svg-and-mathml.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [23 - Embedding external content safely](23-safe-embedded-content.md) | [Lesson](../lessons/24-responsive-images.md) | [Example](../examples/24-responsive-images.md) | [25 - Inline SVG and MathML in HTML](25-svg-and-mathml.md) |
