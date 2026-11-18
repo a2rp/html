@@ -68,3 +68,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 06 - Nesting, void elements, and HTML syntax](../lessons/06-nesting-and-html-syntax.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [05 - Elements, tags, and attributes](05-elements-tags-and-attributes.md) | [Lesson](../lessons/06-nesting-and-html-syntax.md) | [Q&A](../qnas/06-nesting-and-html-syntax.md) | [07 - Global attributes](07-global-attributes.md) |
