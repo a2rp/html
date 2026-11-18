@@ -113,3 +113,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 32 - Textarea, select, option, and datalist](../lessons/32-textarea-select-and-datalist.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [31 - Fieldset and legend](31-fieldset-and-legend.md) | [Lesson](../lessons/32-textarea-select-and-datalist.md) | [Q&A](../qnas/32-textarea-select-and-datalist.md) | [33 - Buttons and form actions](33-buttons-and-form-actions.md) |
