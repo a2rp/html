@@ -141,3 +141,9 @@ The links in this example are illustrative paths. This Markdown file displays th
 ## Related lesson
 
 [Read lesson 43 - Details and summary](../lessons/43-details-and-summary.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [42 - Language, text direction, and international content](42-language-and-text-direction.md) | [Lesson](../lessons/43-details-and-summary.md) | [Q&A](../qnas/43-details-and-summary.md) | [44 - Dialog elements](44-dialog-element.md) |
