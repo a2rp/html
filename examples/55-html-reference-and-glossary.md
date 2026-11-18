@@ -679,3 +679,9 @@ The page uses browser default presentation because it contains no CSS. The discl
 ## Related lesson
 
 [Read lesson 55 - HTML quick reference and glossary](../lessons/55-html-reference-and-glossary.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [54 - HTML-only practice pages](54-html-practice-projects.md) | [Lesson](../lessons/55-html-reference-and-glossary.md) | [Q&A](../qnas/55-html-reference-and-glossary.md) |  |
