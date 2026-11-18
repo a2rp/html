@@ -333,6 +333,6 @@ The date values use the format expected by `type="date"`.
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [33 - Buttons and form actions](33-buttons-and-form-actions.md) | [35 - Form submission: name, method, action, and enctype](35-form-submission.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [33 - Buttons and form actions](33-buttons-and-form-actions.md) | [Lesson](../lessons/34-form-validation.md) | [Example](../examples/34-form-validation.md) | [35 - Form submission: name, method, action, and enctype](35-form-submission.md) |
