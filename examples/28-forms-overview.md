@@ -84,3 +84,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 28 - Forms: the form element and submission flow](../lessons/28-forms-overview.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [27 - Table headings, captions, and accessible structure](27-accessible-tables.md) | [Lesson](../lessons/28-forms-overview.md) | [Q&A](../qnas/28-forms-overview.md) | [29 - Input types and input attributes](29-input-types-and-attributes.md) |
