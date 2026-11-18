@@ -60,3 +60,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 10 - Metadata: charset, viewport, and description](../lessons/10-document-metadata.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [09 - The head element and page title](09-head-and-title.md) | [Lesson](../lessons/10-document-metadata.md) | [Q&A](../qnas/10-document-metadata.md) | [11 - Headings and paragraphs](11-headings-and-paragraphs.md) |
