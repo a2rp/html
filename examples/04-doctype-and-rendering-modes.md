@@ -75,3 +75,9 @@ This Markdown file displays the example as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 04 - Doctype and browser rendering modes](../lessons/04-doctype-and-rendering-modes.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [03 - The basic HTML document](03-basic-html-document.md) | [Lesson](../lessons/04-doctype-and-rendering-modes.md) | [Q&A](../qnas/04-doctype-and-rendering-modes.md) | [05 - Elements, tags, and attributes](05-elements-tags-and-attributes.md) |
