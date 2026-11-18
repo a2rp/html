@@ -57,3 +57,9 @@ This Markdown page displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 03 - The basic HTML document](../lessons/03-basic-html-document.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [02 - How HTML fits into a web page](02-html-css-and-javascript.md) | [Lesson](../lessons/03-basic-html-document.md) | [Q&A](../qnas/03-basic-html-document.md) | [04 - Doctype and browser rendering modes](04-doctype-and-rendering-modes.md) |
