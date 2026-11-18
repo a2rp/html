@@ -418,6 +418,6 @@ The event handler calls `showModal()`. The form supplies a close control without
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [43 - Details and summary](43-details-and-summary.md) | [45 - Popover attributes](45-popover-attributes.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [43 - Details and summary](43-details-and-summary.md) | [Lesson](../lessons/44-dialog-element.md) | [Example](../examples/44-dialog-element.md) | [45 - Popover attributes](45-popover-attributes.md) |
