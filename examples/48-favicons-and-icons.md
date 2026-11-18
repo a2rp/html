@@ -101,3 +101,9 @@ This Markdown file displays the HTML and does not include or run the icon assets
 ## Related lesson
 
 [Read lesson 48 - Favicons and document icons](../lessons/48-favicons-and-icons.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [47 - Hidden, inert, tabindex, and editable content](47-visibility-and-interaction-attributes.md) | [Lesson](../lessons/48-favicons-and-icons.md) | [Q&A](../qnas/48-favicons-and-icons.md) | [49 - Search and social sharing metadata](49-search-and-social-metadata.md) |
