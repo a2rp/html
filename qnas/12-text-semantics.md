@@ -265,6 +265,6 @@ Practice questions for [Lesson 12 - Text semantics: emphasis, importance, and me
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [11 - Headings and paragraphs](11-headings-and-paragraphs.md) | [13 - Code, abbreviations, dates, and machine-readable text](13-specialized-text-elements.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [11 - Headings and paragraphs](11-headings-and-paragraphs.md) | [Lesson](../lessons/12-text-semantics.md) | [Example](../examples/12-text-semantics.md) | [13 - Code, abbreviations, dates, and machine-readable text](13-specialized-text-elements.md) |
