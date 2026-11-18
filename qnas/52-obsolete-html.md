@@ -196,6 +196,6 @@ Use ul and li for an unordered list.
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [51 - Safe links and embedded content](51-html-safety.md) | [53 - Validate and debug HTML](53-validation-and-debugging.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [51 - Safe links and embedded content](51-html-safety.md) | [Lesson](../lessons/52-obsolete-html.md) | [Example](../examples/52-obsolete-html.md) | [53 - Validate and debug HTML](53-validation-and-debugging.md) |
