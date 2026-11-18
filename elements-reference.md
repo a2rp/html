@@ -94,8 +94,8 @@ This reference groups the standard HTML elements by their common purpose. Elemen
 
 | Element | Purpose |
 | --- | --- |
-| &lt;area&gt; | Defines a clickable region in an image map. |
-| &lt;map&gt; | Groups clickable regions associated with an image. |
+| &lt;area&gt; | Defines a region in an image map. With href, it is a hyperlink and requires alt text. |
+| &lt;map&gt; | Names a set of image-map regions referenced by an img element's usemap attribute. |
 
 Use area inside map, and connect the map to an image with the img element's usemap attribute.
 

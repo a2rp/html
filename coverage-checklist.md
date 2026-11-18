@@ -1,6 +1,6 @@
 # HTML Coverage Checklist
 
-This checklist compares the guide's 56 lessons, Q&A pages, examples, and element reference against the main authoring topics in the HTML Living Standard.
+This checklist compares the guide's 57 lessons, Q&A pages, examples, and element reference against the main authoring topics in the HTML Living Standard.
 
 It tracks practical coverage for people writing HTML. `Covered` means a lesson introduces the topic. It does not mean every specification detail or every attribute value is documented.
 
@@ -10,7 +10,7 @@ It tracks practical coverage for people writing HTML. `Covered` means a lesson i
 | --- | --- | --- | --- |
 | Document basics, HTML syntax, URL bases, tags, attributes, comments, and character references | Covered | Lessons 01-10 and 56 | The guide explains document structure, relative URL bases, and common authoring syntax. Detailed parser recovery and conformance rules need more depth. |
 | Headings, paragraphs, text meaning, quotations, links, URLs, and lists | Covered | Lessons 11-18 | Core text and navigation elements have lessons, questions, and examples. |
-| Images, figures, responsive images, audio, video, iframes, SVG, and MathML | Partial | Lessons 19-25 | The common authoring patterns are covered. Image maps, canvas, object, and embed need focused explanations. |
+| Images, figures, responsive images, image maps, audio, video, iframes, SVG, and MathML | Partial | Lessons 19-25 and 57 | Image maps have a focused lesson. Canvas, object, and embed still need focused explanations. |
 | Tables and accessible table structure | Covered | Lessons 26-27 | Data tables, headers, captions, and accessible relationships are covered. |
 | Forms, input types, labels, groups, selection controls, buttons, validation, submission, and autocomplete | Partial | Lessons 28-36 | The main form workflow is covered. A complete per-control attribute and behavior reference is still needed. |
 | Semantic page structure, landmarks, accessibility, ARIA, language, and text direction | Partial | Lessons 37-42 | Practical usage is covered. HTML content categories, content models, and detailed nesting rules need a dedicated explanation. |
@@ -23,7 +23,7 @@ It tracks practical coverage for people writing HTML. `Covered` means a lesson i
 ### 1. Add focused lessons for elements currently listed only briefly
 
 - [x] `<base>` and how it changes relative URLs and default link targets. See [Chapter 56 - The base element and relative URLs](lessons/56-base-element-and-relative-urls.md).
-- [ ] `<map>` and `<area>` for image maps, including accessible names and coordinates.
+- [x] `<map>` and `<area>` for image maps, including accessible names and coordinates. See [Chapter 57 - Image maps with map and area](lessons/57-image-maps-with-map-and-area.md).
 - [ ] `<canvas>`, its fallback content, and its relationship to JavaScript.
 - [ ] `<object>` and `<embed>`, including fallback content and practical limitations.
 - [ ] `<output>`, `<meter>`, and `<progress>`, with examples showing their distinct meanings.
@@ -73,7 +73,7 @@ The HTML Living Standard also specifies browser implementation details and APIs 
 
 ## Audit notes
 
-- The repository currently has 56 lesson files, 56 matching Q&A files, and 56 matching example files.
+- The repository currently has 57 lesson files, 57 matching Q&A files, and 57 matching example files.
 - Each lesson, Q&A, and example has chapter navigation, and the internal Markdown links were checked for missing targets.
 - The element inventory was compared with the HTML Living Standard's conforming element index and section structure on 19 November 2026.
 - Update this checklist whenever lessons, Q&A pages, examples, or the element reference change.

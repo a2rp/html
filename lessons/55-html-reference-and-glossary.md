@@ -287,7 +287,7 @@ Use a native control that matches the interaction. For example, details is a dis
 | Document basics and syntax | [03 - The basic HTML document](03-basic-html-document.md), [05 - Elements, tags, and attributes](05-elements-tags-and-attributes.md), [06 - Nesting, void elements, and HTML syntax](06-nesting-and-html-syntax.md) |
 | Text and headings | [11 - Headings and paragraphs](11-headings-and-paragraphs.md), [12 - Text semantics](12-text-semantics.md) |
 | Links and URLs | [15 - Links and the anchor element](15-links.md), [16 - URLs, file paths, and page fragments](16-urls-paths-and-fragments.md) |
-| Lists and images | [18 - Lists](18-lists.md), [19 - Images and alternative text](19-images-and-alt-text.md) |
+| Lists and images | [18 - Lists](18-lists.md), [19 - Images and alternative text](19-images-and-alt-text.md), [57 - Image maps with map and area](57-image-maps-with-map-and-area.md) |
 | Tables and forms | [26 - HTML tables](26-html-tables.md), [28 - Forms](28-forms-overview.md), [30 - Labels and accessible form controls](30-labels-and-form-controls.md) |
 | Structure and accessibility | [37 - Semantic HTML](37-semantic-html.md), [40 - Accessibility with native HTML](40-accessibility-with-html.md), [41 - ARIA in HTML](41-aria-in-html.md) |
 | Interactions and attributes | [43 - Details and summary](43-details-and-summary.md), [44 - Dialog elements](44-dialog-element.md), [45 - Popover attributes](45-popover-attributes.md), [47 - Visibility and interaction attributes](47-visibility-and-interaction-attributes.md) |

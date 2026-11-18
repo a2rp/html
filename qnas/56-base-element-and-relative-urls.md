@@ -102,4 +102,4 @@ The href supplies the base URL. The target sets the default browsing context to 
 
 | Previous chapter | Chapter lesson | Chapter example | Next chapter |
 | :--- | :---: | :---: | ---: |
-| [55 - HTML quick reference and glossary](55-html-reference-and-glossary.md) | [Lesson](../lessons/56-base-element-and-relative-urls.md) | [Example](../examples/56-base-element-and-relative-urls.md) |  |
+| [55 - HTML quick reference and glossary](55-html-reference-and-glossary.md) | [Lesson](../lessons/56-base-element-and-relative-urls.md) | [Example](../examples/56-base-element-and-relative-urls.md) | [57 - Image maps with map and area](57-image-maps-with-map-and-area.md) |

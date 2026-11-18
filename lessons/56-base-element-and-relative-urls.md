@@ -78,4 +78,4 @@ Use `<base>` only when a document genuinely needs a shared URL base. Otherwise, 
 
 | Previous chapter | Chapter Q&A | Chapter example | Next chapter |
 | :--- | :---: | :---: | ---: |
-| [55 - HTML quick reference and glossary](55-html-reference-and-glossary.md) | [Q&A](../qnas/56-base-element-and-relative-urls.md) | [Example](../examples/56-base-element-and-relative-urls.md) |  |
+| [55 - HTML quick reference and glossary](55-html-reference-and-relative-urls.md) | [Q&A](../qnas/56-base-element-and-relative-urls.md) | [Example](../examples/56-base-element-and-relative-urls.md) | [57 - Image maps with map and area](57-image-maps-with-map-and-area.md) |
