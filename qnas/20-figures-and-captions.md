@@ -355,6 +355,6 @@ The quote is repeated from the article for emphasis, so aside is a suitable grou
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [19 - Images and alternative text](19-images-and-alt-text.md) | [21 - Audio and video](21-audio-and-video.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [19 - Images and alternative text](19-images-and-alt-text.md) | [Lesson](../lessons/20-figures-and-captions.md) | [Example](../examples/20-figures-and-captions.md) | [21 - Audio and video](21-audio-and-video.md) |
