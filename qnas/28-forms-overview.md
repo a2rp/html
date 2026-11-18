@@ -270,6 +270,6 @@ Each form now represents one task, with its own destination and controls.
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [27 - Table headings, captions, and accessible structure](27-accessible-tables.md) | [29 - Input types and input attributes](29-input-types-and-attributes.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [27 - Table headings, captions, and accessible structure](27-accessible-tables.md) | [Lesson](../lessons/28-forms-overview.md) | [Example](../examples/28-forms-overview.md) | [29 - Input types and input attributes](29-input-types-and-attributes.md) |
