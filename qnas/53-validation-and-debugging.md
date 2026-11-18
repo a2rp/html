@@ -172,6 +172,6 @@ Each anchor has its own destination and neither link contains the other.
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [52 - Deprecated elements and obsolete HTML](52-obsolete-html.md) | [54 - HTML-only practice pages](54-html-practice-projects.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [52 - Deprecated elements and obsolete HTML](52-obsolete-html.md) | [Lesson](../lessons/53-validation-and-debugging.md) | [Example](../examples/53-validation-and-debugging.md) | [54 - HTML-only practice pages](54-html-practice-projects.md) |
