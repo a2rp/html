@@ -2,6 +2,12 @@
 
 These are my personal learning notes, shaped by what I’ve studied and practiced throughout my learning journey and career. Here, I’m gathering what I’ve learned about HTML into a clear, practical guide that I can revisit and share.
 
+## HTML references
+
+- [HTML summary](reference/html-summary.md)
+- [Basic HTML document structure](reference/html-document-structure.md)
+- [HTML elements reference](reference/html-elements-reference.md)
+
 ## Lessons
 
 | No. | Lesson | QnA |
