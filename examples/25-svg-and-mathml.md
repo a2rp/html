@@ -156,3 +156,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 25 - Inline SVG and MathML in HTML](../lessons/25-svg-and-mathml.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [24 - Responsive images: picture, srcset, and sizes](24-responsive-images.md) | [Lesson](../lessons/25-svg-and-mathml.md) | [Q&A](../qnas/25-svg-and-mathml.md) | [26 - HTML tables: rows, columns, and cells](26-html-tables.md) |
