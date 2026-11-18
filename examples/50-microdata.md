@@ -100,3 +100,9 @@ The link points to a placeholder URL. Replace it with the real destination befor
 ## Related lesson
 
 [Read lesson 50 - Microdata and structured information](../lessons/50-microdata.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [49 - Search and social sharing metadata](49-search-and-social-metadata.md) | [Lesson](../lessons/50-microdata.md) | [Q&A](../qnas/50-microdata.md) | [51 - Safe links and embedded content](51-html-safety.md) |
