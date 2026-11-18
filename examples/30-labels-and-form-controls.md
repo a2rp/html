@@ -124,3 +124,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 30 - Labels and accessible form controls](../lessons/30-labels-and-form-controls.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [29 - Input types and input attributes](29-input-types-and-attributes.md) | [Lesson](../lessons/30-labels-and-form-controls.md) | [Q&A](../qnas/30-labels-and-form-controls.md) | [31 - Fieldset and legend](31-fieldset-and-legend.md) |
