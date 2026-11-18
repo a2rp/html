@@ -268,6 +268,6 @@ Practice questions for [Lesson 08 - Comments, character references, and special 
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [07 - Global attributes](07-global-attributes.md) | [09 - The head element and page title](09-head-and-title.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [07 - Global attributes](07-global-attributes.md) | [Lesson](../lessons/08-comments-and-character-references.md) | [Example](../examples/08-comments-and-character-references.md) | [09 - The head element and page title](09-head-and-title.md) |
