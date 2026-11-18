@@ -86,3 +86,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 26 - HTML tables: rows, columns, and cells](../lessons/26-html-tables.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [25 - Inline SVG and MathML in HTML](25-svg-and-mathml.md) | [Lesson](../lessons/26-html-tables.md) | [Q&A](../qnas/26-html-tables.md) | [27 - Table headings, captions, and accessible structure](27-accessible-tables.md) |
