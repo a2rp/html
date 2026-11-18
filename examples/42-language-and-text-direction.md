@@ -116,3 +116,9 @@ The example links and form action are illustrative paths. This standalone file d
 ## Related lesson
 
 [Read lesson 42 - Language, text direction, and international content](../lessons/42-language-and-text-direction.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [41 - ARIA in HTML: when and how to use it](41-aria-in-html.md) | [Lesson](../lessons/42-language-and-text-direction.md) | [Q&A](../qnas/42-language-and-text-direction.md) | [43 - Details and summary](43-details-and-summary.md) |
