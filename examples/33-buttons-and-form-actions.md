@@ -108,3 +108,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 33 - Buttons and form actions](../lessons/33-buttons-and-form-actions.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [32 - Textarea, select, option, and datalist](32-textarea-select-and-datalist.md) | [Lesson](../lessons/33-buttons-and-form-actions.md) | [Q&A](../qnas/33-buttons-and-form-actions.md) | [34 - Built-in form validation](34-form-validation.md) |
