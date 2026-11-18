@@ -188,3 +188,9 @@ The schedule dates and form destination are examples. The form needs a server en
 ## Related lesson
 
 [Read lesson 40 - Accessibility with native HTML](../lessons/40-accessibility-with-html.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [39 - Landmarks, headings, and accessible page navigation](39-landmarks-and-page-navigation.md) | [Lesson](../lessons/40-accessibility-with-html.md) | [Q&A](../qnas/40-accessibility-with-html.md) | [41 - ARIA in HTML: when and how to use it](41-aria-in-html.md) |
