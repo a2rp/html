@@ -160,3 +160,9 @@ The example paths have no server handlers in this file, so the forms cannot stor
 ## Related lesson
 
 [Read lesson 35 - Form submission: name, method, action, and enctype](../lessons/35-form-submission.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [34 - Built-in form validation](34-form-validation.md) | [Lesson](../lessons/35-form-submission.md) | [Q&A](../qnas/35-form-submission.md) | [36 - Autocomplete and autofill](36-autocomplete-and-autofill.md) |
