@@ -107,3 +107,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 19 - Images and alternative text](../lessons/19-images-and-alt-text.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [18 - Unordered, ordered, and description lists](18-lists.md) | [Lesson](../lessons/19-images-and-alt-text.md) | [Q&A](../qnas/19-images-and-alt-text.md) | [20 - Figures and captions](20-figures-and-captions.md) |
