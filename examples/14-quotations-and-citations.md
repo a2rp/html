@@ -77,3 +77,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 14 - Quotations and citations](../lessons/14-quotations-and-citations.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [13 - Code, abbreviations, dates, and machine-readable text](13-specialized-text-elements.md) | [Lesson](../lessons/14-quotations-and-citations.md) | [Q&A](../qnas/14-quotations-and-citations.md) | [15 - Links and the anchor element](15-links.md) |
