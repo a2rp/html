@@ -81,3 +81,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 15 - Links and the anchor element](../lessons/15-links.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [14 - Quotations and citations](14-quotations-and-citations.md) | [Lesson](../lessons/15-links.md) | [Q&A](../qnas/15-links.md) | [16 - URLs, file paths, and page fragments](16-urls-paths-and-fragments.md) |
