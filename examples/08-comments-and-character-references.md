@@ -57,3 +57,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 08 - Comments, character references, and special characters](../lessons/08-comments-and-character-references.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [07 - Global attributes](07-global-attributes.md) | [Lesson](../lessons/08-comments-and-character-references.md) | [Q&A](../qnas/08-comments-and-character-references.md) | [09 - The head element and page title](09-head-and-title.md) |
