@@ -166,3 +166,9 @@ The links in this example are illustrative paths. This Markdown file displays th
 ## Related lesson
 
 [Read lesson 45 - Popover attributes](../lessons/45-popover-attributes.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [44 - Dialog elements](44-dialog-element.md) | [Lesson](../lessons/45-popover-attributes.md) | [Q&A](../qnas/45-popover-attributes.md) | [46 - Template elements](46-template-element.md) |
