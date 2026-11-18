@@ -89,3 +89,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 11 - Headings and paragraphs](../lessons/11-headings-and-paragraphs.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [10 - Metadata: charset, viewport, and description](10-document-metadata.md) | [Lesson](../lessons/11-headings-and-paragraphs.md) | [Q&A](../qnas/11-headings-and-paragraphs.md) | [12 - Text semantics: emphasis, importance, and meaning](12-text-semantics.md) |
