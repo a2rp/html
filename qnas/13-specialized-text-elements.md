@@ -296,6 +296,6 @@ Samp describes output, not user input. “Next week” is not a machine-readable
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [12 - Text semantics: emphasis, importance, and meaning](12-text-semantics.md) | [14 - Quotations and citations](14-quotations-and-citations.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [12 - Text semantics: emphasis, importance, and meaning](12-text-semantics.md) | [Lesson](../lessons/13-specialized-text-elements.md) | [Example](../examples/13-specialized-text-elements.md) | [14 - Quotations and citations](14-quotations-and-citations.md) |
