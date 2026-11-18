@@ -93,3 +93,9 @@ The example link and form destination do not have server handlers in this file. 
 ## Related lesson
 
 [Read lesson 37 - Semantic HTML and page structure](../lessons/37-semantic-html.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [36 - Autocomplete and autofill](36-autocomplete-and-autofill.md) | [Lesson](../lessons/37-semantic-html.md) | [Q&A](../qnas/37-semantic-html.md) | [38 - Header, navigation, main, section, article, and footer](38-page-structure-elements.md) |
