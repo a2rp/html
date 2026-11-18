@@ -187,6 +187,6 @@ For an `a` element, the Microdata value comes from `href`, not from its visible 
 
 ### Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [49 - Search and social sharing metadata](49-search-and-social-metadata.md) | [51 - Safe links and embedded content](51-html-safety.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [49 - Search and social sharing metadata](49-search-and-social-metadata.md) | [Lesson](../lessons/50-microdata.md) | [Example](../examples/50-microdata.md) | [51 - Safe links and embedded content](51-html-safety.md) |
