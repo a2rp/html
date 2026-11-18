@@ -114,3 +114,9 @@ The command and commandfor attributes may not work in older browsers. If you nee
 ## Related lesson
 
 [Read lesson 44 - Dialog elements](../lessons/44-dialog-element.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [43 - Details and summary](43-details-and-summary.md) | [Lesson](../lessons/44-dialog-element.md) | [Q&A](../qnas/44-dialog-element.md) | [45 - Popover attributes](45-popover-attributes.md) |
