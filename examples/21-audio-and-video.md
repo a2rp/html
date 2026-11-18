@@ -118,3 +118,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 21 - Audio and video](../lessons/21-audio-and-video.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [20 - Figures and captions](20-figures-and-captions.md) | [Lesson](../lessons/21-audio-and-video.md) | [Q&A](../qnas/21-audio-and-video.md) | [22 - The iframe element and embedded pages](22-iframes-and-embedded-pages.md) |
