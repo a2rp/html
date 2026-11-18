@@ -387,6 +387,6 @@ The paragraph may be useful surrounding text, but it does not serve as the table
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| :--- | ---: |
-| [26 - HTML tables: rows, columns, and cells](26-html-tables.md) | [28 - Forms: the form element and submission flow](28-forms-overview.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [26 - HTML tables: rows, columns, and cells](26-html-tables.md) | [Lesson](../lessons/27-accessible-tables.md) | [Example](../examples/27-accessible-tables.md) | [28 - Forms: the form element and submission flow](28-forms-overview.md) |
