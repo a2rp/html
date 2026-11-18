@@ -102,3 +102,9 @@ This Markdown file displays the code as text. It does not execute the HTML.
 ## Related lesson
 
 [Read lesson 24 - Responsive images: picture, srcset, and sizes](../lessons/24-responsive-images.md)
+
+## Chapter navigation
+
+| Previous chapter | Chapter lesson | Chapter Q&A | Next chapter |
+| :--- | --- | --- | ---: |
+| [23 - Embedding external content safely](23-safe-embedded-content.md) | [Lesson](../lessons/24-responsive-images.md) | [Q&A](../qnas/24-responsive-images.md) | [25 - Inline SVG and MathML in HTML](25-svg-and-mathml.md) |
