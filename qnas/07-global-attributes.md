@@ -271,6 +271,6 @@ Practice questions for [Lesson 07 - Global attributes](../lessons/07-global-attr
 
 ## Chapter navigation
 
-| Previous chapter | Next chapter |
-| --- | --- |
-| [06 - Nesting, void elements, and HTML syntax](06-nesting-and-html-syntax.md) | [08 - Comments, character references, and special characters](08-comments-and-character-references.md) |
+| Previous chapter | Chapter lesson | Chapter example | Next chapter |
+| :--- | --- | --- | ---: |
+| [06 - Nesting, void elements, and HTML syntax](06-nesting-and-html-syntax.md) | [Lesson](../lessons/07-global-attributes.md) | [Example](../examples/07-global-attributes.md) | [08 - Comments, character references, and special characters](08-comments-and-character-references.md) |
