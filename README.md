@@ -62,9 +62,6 @@ These are my personal learning notes, shaped by what I’ve studied and practice
 | 54 | [HTML-only practice pages](lessons/54-html-practice-projects.md) |[Open QnA](qnas/54-html-practice-projects.md) | [Open Example](examples/54-html-practice-projects.md) |
 | 55 | [HTML quick reference and glossary](lessons/55-html-reference-and-glossary.md) |[Open QnA](qnas/55-html-reference-and-glossary.md) | [Open Example](examples/55-html-reference-and-glossary.md) |
 
-## Video lessons
-
-
 ## My Links
 
 [My Links repository](https://github.com/a2rp/ashish-links)
