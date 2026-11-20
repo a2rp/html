@@ -59,3 +59,5 @@ Choose a chapter to open its question and answer file.
 | 53 | Validate and debug HTML | [Open](./53-validation-and-debugging.md) |
 | 54 | HTML-only practice pages | [Open](./54-html-practice-projects.md) |
 | 55 | HTML quick reference and glossary | [Open](./55-html-reference-and-glossary.md) |
+| 56 | The base element and relative URLs | [Open](./56-base-element-and-relative-urls.md) |
+| 57 | Image maps with map and area | [Open](./57-image-maps-with-map-and-area.md) |
